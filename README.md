@@ -1,5 +1,5 @@
 # File Type Identification
-To identify file type using various sources by using files name and extension only.
+To identify file type using various sources by using files name and extensions.
 
 
 # Problem​ ​Statement: 
@@ -13,12 +13,22 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
   
 ## Solution (Approach)
 
-#### Task To-Do
-* [x] **Deliverable 1 - Identification and Analysis of Data Sources.**
-    * [x] Identified 8 Different Data sources
-    * [x] Expanded on the rationale for using the Data source.
+### Task To-Do
+
+- [x] **Deliverable 1 - Identification and Analysis of Data Sources.**
+    - [x] Identified 8 Different Data sources.
+    - [x] Expanded on the rationale for using the Data source.
+    
 - [x] **Deliverable 2 - Implementation and Presentation to Identify the given input file types.**
-    - [x] Extracted (Web scraping) Fileinfo.com for file information
+    - [x] Extract (Web scraping) data from Fileinfo.com using python script and store in .json file.
+    - [x] Extract tika.xml using java parser and store in .json file.
+    - [ ] Extract (web scraping) data from IANA source using python script and store in .json file.
+    - [x] Create an input .csv file for passing all the inputs.
+    - [x] Implement the main Program - fileTypeIdentification.java
+          - [x] Store all the input filenames in a List
+          - [x] Access various data sources (extracted previously in .json files) and load the each data in the main memory (hash maps)
+          - [x] For each file Extension input, parse it in the hash map to search for required data
+          - [x] Print the information about each file input on the Console.
 
 ## Input
 
