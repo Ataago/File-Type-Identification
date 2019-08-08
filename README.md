@@ -28,6 +28,12 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
       - [x] For each file Extension input, parse it in the hash maps to search for required data in a priority.
       - [x] Write the information about each file input in `output.txt`
 
+
+
+
+
+
+
 ## Input
 
 The input file is found in the 'data' directory of the `File-Type-Identification`. We have taken filenames with its extension in a `csv file` as shown below.
