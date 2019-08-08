@@ -1,0 +1,7616 @@
+[
+  {
+    ".ez": {
+      "tikaType": "application\\/andrew-inset",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aw": {
+      "tikaType": "application\\/applixware",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".iso19139": {
+      "tikaType": "text\\/iso19139+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".atom": {
+      "tikaType": "application\\/atom+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".atomcat": {
+      "tikaType": "application\\/atomcat+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".atomsvc": {
+      "tikaType": "application\\/atomsvc+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bat": {
+      "tikaType": "application\\/x-bat",
+      "tikaComment": "Windows Batch \\/ Command File"
+    }
+  },
+  {
+    ".cmd": {
+      "tikaType": "application\\/x-bat",
+      "tikaComment": "Windows Batch \\/ Command File"
+    }
+  },
+  {
+    ".bpm": {
+      "tikaType": "application\\/bizagi-modeler",
+      "tikaComment": "BizAgi Process Modeler"
+    }
+  },
+  {
+    ".cbor": {
+      "tikaType": "application\\/cbor",
+      "tikaComment": "Concise Binary Object Representation container"
+    }
+  },
+  {
+    ".ccxml": {
+      "tikaType": "application\\/ccxml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cdr": {
+      "tikaType": "application\\/coreldraw",
+      "tikaComment": "CorelDraw"
+    }
+  },
+  {
+    ".cu": {
+      "tikaType": "application\\/cu-seeme",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".davmount": {
+      "tikaType": "application\\/davmount+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dbf": {
+      "tikaType": "application\\/x-dbf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dbase": {
+      "tikaType": "application\\/x-dbf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dbase3": {
+      "tikaType": "application\\/x-dbf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ditamap": {
+      "tikaType": "application\\/dita+xml;format=map",
+      "tikaComment": "DITA Map"
+    }
+  },
+  {
+    ".dita": {
+      "tikaType": "application\\/dita+xml;format=topic",
+      "tikaComment": "DITA Topic"
+    }
+  },
+  {
+    ".ditaval": {
+      "tikaType": "application\\/dita+xml;format=val",
+      "tikaComment": "DITA Conditional Processing Profile"
+    }
+  },
+  {
+    ".ecma": {
+      "tikaType": "application\\/ecmascript",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".emma": {
+      "tikaType": "application\\/emma+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hdr": {
+      "tikaType": "application\\/envi.hdr",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".epub": {
+      "tikaType": "application\\/epub+zip",
+      "tikaComment": "Electronic Publication"
+    }
+  },
+  {
+    ".fits": {
+      "tikaType": "application\\/fits",
+      "tikaComment": "Flexible Image Transport System"
+    }
+  },
+  {
+    ".fit": {
+      "tikaType": "application\\/fits",
+      "tikaComment": "Flexible Image Transport System"
+    }
+  },
+  {
+    ".fts": {
+      "tikaType": "application\\/fits",
+      "tikaComment": "Flexible Image Transport System"
+    }
+  },
+  {
+    ".pfr": {
+      "tikaType": "application\\/font-tdpfr",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".stk": {
+      "tikaType": "application\\/hyperstudio",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ai": {
+      "tikaType": "application\\/illustrator",
+      "tikaComment": "Adobe Illustrator Artwork"
+    }
+  },
+  {
+    ".jar": {
+      "tikaType": "application\\/java-archive",
+      "tikaComment": "Java Archive"
+    }
+  },
+  {
+    ".apk": {
+      "tikaType": "application\\/vnd.android.package-archive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ear": {
+      "tikaType": "application\\/x-tika-java-enterprise-archive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".war": {
+      "tikaType": "application\\/x-tika-java-web-archive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ser": {
+      "tikaType": "application\\/java-serialized-object",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".js": {
+      "tikaType": "application\\/javascript",
+      "tikaComment": "JavaScript Source Code"
+    }
+  },
+  {
+    ".json": {
+      "tikaType": "application\\/json",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".class": {
+      "tikaType": "application\\/java-vm",
+      "tikaComment": "Java Class File"
+    }
+  },
+  {
+    ".jnilib": {
+      "tikaType": "application\\/x-java-jnilib",
+      "tikaComment": "Java Native Library for OSX"
+    }
+  },
+  {
+    ".lostxml": {
+      "tikaType": "application\\/lost+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hqx": {
+      "tikaType": "application\\/mac-binhex40",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cpt": {
+      "tikaType": "application\\/mac-compactpro",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mrc": {
+      "tikaType": "application\\/marc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ma": {
+      "tikaType": "application\\/mathematica",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nb": {
+      "tikaType": "application\\/mathematica",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mb": {
+      "tikaType": "application\\/mathematica",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mathml": {
+      "tikaType": "application\\/mathml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mbox": {
+      "tikaType": "application\\/mbox",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mscml": {
+      "tikaType": "application\\/mediaservercontrol+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mp4s": {
+      "tikaType": "application\\/mp4",
+      "tikaComment": "MP4 container format"
+    }
+  },
+  {
+    ".doc": {
+      "tikaType": "application\\/msword",
+      "tikaComment": "Microsoft Word Document"
+    }
+  },
+  {
+    ".dot": {
+      "tikaType": "application\\/msword",
+      "tikaComment": "Microsoft Word Document"
+    }
+  },
+  {
+    ".mxf": {
+      "tikaType": "application\\/mxf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bin": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dms": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lha": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lrf": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lzh": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".so": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dist": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".distz": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pkg": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bpk": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dump": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".elc": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".deploy": {
+      "tikaType": "application\\/octet-stream",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".oda": {
+      "tikaType": "application\\/oda",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".opf": {
+      "tikaType": "application\\/oebps-package+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ogx": {
+      "tikaType": "application\\/ogg",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".onetmp": {
+      "tikaType": "application\\/onenote",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".one": {
+      "tikaType": "application\\/onenote;format=one",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".onetoc": {
+      "tikaType": "application\\/onenote;format=onetoc2",
+      "tikaComment": "OneNote Table of Contents"
+    }
+  },
+  {
+    ".onetoc2": {
+      "tikaType": "application\\/onenote;format=onetoc2",
+      "tikaComment": "OneNote Table of Contents"
+    }
+  },
+  {
+    ".onepkg": {
+      "tikaType": "application\\/onenote; format=package",
+      "tikaComment": "OneNote Package"
+    }
+  },
+  {
+    ".xer": {
+      "tikaType": "application\\/patch-ops-error+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pdf": {
+      "tikaType": "application\\/pdf",
+      "tikaComment": "Portable Document Format"
+    }
+  },
+  {
+    ".pgp": {
+      "tikaType": "application\\/pgp-encrypted",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".asc": {
+      "tikaType": "application\\/pgp-signature",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sig": {
+      "tikaType": "application\\/pgp-signature",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".prf": {
+      "tikaType": "application\\/pics-rules",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".p10": {
+      "tikaType": "application\\/pkcs10",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".p7m": {
+      "tikaType": "application\\/pkcs7-mime",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".p7c": {
+      "tikaType": "application\\/pkcs7-mime",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".p7s": {
+      "tikaType": "application\\/pkcs7-signature",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tsd": {
+      "tikaType": "application\\/timestamped-data",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cer": {
+      "tikaType": "application\\/pkix-cert",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".crl": {
+      "tikaType": "application\\/pkix-crl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pkipath": {
+      "tikaType": "application\\/pkix-pkipath",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pki": {
+      "tikaType": "application\\/pkixcmp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pls": {
+      "tikaType": "application\\/pls+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ps": {
+      "tikaType": "application\\/postscript",
+      "tikaComment": "PostScript"
+    }
+  },
+  {
+    ".eps": {
+      "tikaType": "application\\/postscript",
+      "tikaComment": "PostScript"
+    }
+  },
+  {
+    ".epsf": {
+      "tikaType": "application\\/postscript",
+      "tikaComment": "PostScript"
+    }
+  },
+  {
+    ".epsi": {
+      "tikaType": "application\\/postscript",
+      "tikaComment": "PostScript"
+    }
+  },
+  {
+    ".cww": {
+      "tikaType": "application\\/prs.cww",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rdf": {
+      "tikaType": "application\\/rdf+xml",
+      "tikaComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    ".owl": {
+      "tikaType": "application\\/rdf+xml",
+      "tikaComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    "^rdf$": {
+      "tikaType": "application\\/rdf+xml",
+      "tikaComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    "^owl$": {
+      "tikaType": "application\\/rdf+xml",
+      "tikaComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    ".xmp": {
+      "tikaType": "application\\/rdf+xml",
+      "tikaComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    ".rif": {
+      "tikaType": "application\\/reginfo+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rnc": {
+      "tikaType": "application\\/relax-ng-compact-syntax",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rl": {
+      "tikaType": "application\\/resource-lists+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rld": {
+      "tikaType": "application\\/resource-lists-diff+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rs": {
+      "tikaType": "application\\/rls-services+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rsd": {
+      "tikaType": "application\\/rsd+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rss": {
+      "tikaType": "application\\/rss+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rtf": {
+      "tikaType": "application\\/rtf",
+      "tikaComment": "Rich Text Format File"
+    }
+  },
+  {
+    ".sbml": {
+      "tikaType": "application\\/sbml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".scq": {
+      "tikaType": "application\\/scvp-cv-request",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".scs": {
+      "tikaType": "application\\/scvp-cv-response",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".spq": {
+      "tikaType": "application\\/scvp-vp-request",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".spp": {
+      "tikaType": "application\\/scvp-vp-response",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sdp": {
+      "tikaType": "application\\/sdp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".srl": {
+      "tikaType": "application\\/sereal",
+      "tikaComment": "Sereal binary serialization format"
+    }
+  },
+  {
+    ".setpay": {
+      "tikaType": "application\\/set-payment-initiation",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".setreg": {
+      "tikaType": "application\\/set-registration-initiation",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".shf": {
+      "tikaType": "application\\/shf+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".smi": {
+      "tikaType": "application\\/smil+xml",
+      "tikaComment": "SMIL Multimedia"
+    }
+  },
+  {
+    ".smil": {
+      "tikaType": "application\\/smil+xml",
+      "tikaComment": "SMIL Multimedia"
+    }
+  },
+  {
+    ".sml": {
+      "tikaType": "application\\/smil+xml",
+      "tikaComment": "SMIL Multimedia"
+    }
+  },
+  {
+    ".sldprt": {
+      "tikaType": "application\\/sldworks",
+      "tikaComment": "SolidWorks CAD program"
+    }
+  },
+  {
+    ".sldasm": {
+      "tikaType": "application\\/sldworks",
+      "tikaComment": "SolidWorks CAD program"
+    }
+  },
+  {
+    ".slddrw": {
+      "tikaType": "application\\/sldworks",
+      "tikaComment": "SolidWorks CAD program"
+    }
+  },
+  {
+    ".rq": {
+      "tikaType": "application\\/sparql-query",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".srx": {
+      "tikaType": "application\\/sparql-results+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gram": {
+      "tikaType": "application\\/srgs",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".grxml": {
+      "tikaType": "application\\/srgs+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ssml": {
+      "tikaType": "application\\/ssml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".plb": {
+      "tikaType": "application\\/vnd.3gpp.pic-bw-large",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".psb": {
+      "tikaType": "application\\/vnd.3gpp.pic-bw-small",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pvb": {
+      "tikaType": "application\\/vnd.3gpp.pic-bw-var",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tcap": {
+      "tikaType": "application\\/vnd.3gpp2.tcap",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pwn": {
+      "tikaType": "application\\/vnd.3m.post-it-notes",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aso": {
+      "tikaType": "application\\/vnd.accpac.simply.aso",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".imp": {
+      "tikaType": "application\\/vnd.accpac.simply.imp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".acu": {
+      "tikaType": "application\\/vnd.acucobol",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".atc": {
+      "tikaType": "application\\/vnd.acucorp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".acutc": {
+      "tikaType": "application\\/vnd.acucorp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".air": {
+      "tikaType": "application\\/vnd.adobe.air-application-installer-package+zip",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aep": {
+      "tikaType": "application\\/vnd.adobe.aftereffects.project",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aet": {
+      "tikaType": "application\\/vnd.adobe.aftereffects.template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xdp": {
+      "tikaType": "application\\/vnd.adobe.xdp+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xfdf": {
+      "tikaType": "application\\/vnd.adobe.xfdf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".azf": {
+      "tikaType": "application\\/vnd.airzip.filesecure.azf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".azs": {
+      "tikaType": "application\\/vnd.airzip.filesecure.azs",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".azw": {
+      "tikaType": "application\\/vnd.amazon.ebook",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".acc": {
+      "tikaType": "application\\/vnd.americandynamics.acc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ami": {
+      "tikaType": "application\\/vnd.amiga.ami",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cii": {
+      "tikaType": "application\\/vnd.anser-web-certificate-issue-initiation",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fti": {
+      "tikaType": "application\\/vnd.anser-web-funds-transfer-initiation",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".atx": {
+      "tikaType": "application\\/vnd.antix.game-component",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpkg": {
+      "tikaType": "application\\/vnd.apple.installer+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".key": {
+      "tikaType": "application\\/vnd.apple.keynote",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pages": {
+      "tikaType": "application\\/vnd.apple.pages",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".numbers": {
+      "tikaType": "application\\/vnd.apple.numbers",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".swi": {
+      "tikaType": "application\\/vnd.arastra.swi",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpm": {
+      "tikaType": "application\\/vnd.blueice.multipass",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bmi": {
+      "tikaType": "application\\/vnd.bmi",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rep": {
+      "tikaType": "application\\/vnd.businessobjects",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cdxml": {
+      "tikaType": "application\\/vnd.chemdraw+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mmd": {
+      "tikaType": "application\\/vnd.chipnuts.karaoke-mmd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cdy": {
+      "tikaType": "application\\/vnd.cinderella",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cla": {
+      "tikaType": "application\\/vnd.claymore",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".c4g": {
+      "tikaType": "application\\/vnd.clonk.c4group",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".c4d": {
+      "tikaType": "application\\/vnd.clonk.c4group",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".c4f": {
+      "tikaType": "application\\/vnd.clonk.c4group",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".c4p": {
+      "tikaType": "application\\/vnd.clonk.c4group",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".c4u": {
+      "tikaType": "application\\/vnd.clonk.c4group",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".csp": {
+      "tikaType": "application\\/vnd.commonspace",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cdbcmsg": {
+      "tikaType": "application\\/vnd.contact.cmsg",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cmc": {
+      "tikaType": "application\\/vnd.cosmocaller",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".clkx": {
+      "tikaType": "application\\/vnd.crick.clicker",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".clkk": {
+      "tikaType": "application\\/vnd.crick.clicker.keyboard",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".clkp": {
+      "tikaType": "application\\/vnd.crick.clicker.palette",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".clkt": {
+      "tikaType": "application\\/vnd.crick.clicker.template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".clkw": {
+      "tikaType": "application\\/vnd.crick.clicker.wordbank",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wbs": {
+      "tikaType": "application\\/vnd.criticaltools.wbs+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pml": {
+      "tikaType": "application\\/vnd.ctc-posml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ppd": {
+      "tikaType": "application\\/vnd.cups-ppd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".car": {
+      "tikaType": "application\\/vnd.curl.car",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pcurl": {
+      "tikaType": "application\\/vnd.curl.pcurl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rdz": {
+      "tikaType": "application\\/vnd.data-vision.rdz",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fe_launch": {
+      "tikaType": "application\\/vnd.denovo.fcselayout-link",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dna": {
+      "tikaType": "application\\/vnd.dna",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mlp": {
+      "tikaType": "application\\/vnd.dolby.mlp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dpg": {
+      "tikaType": "application\\/vnd.dpgraph",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dfac": {
+      "tikaType": "application\\/vnd.dreamfactory",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".geo": {
+      "tikaType": "application\\/vnd.dynageo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mag": {
+      "tikaType": "application\\/vnd.ecowin.chart",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nml": {
+      "tikaType": "application\\/vnd.enliven",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".esf": {
+      "tikaType": "application\\/vnd.epson.esf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".msf": {
+      "tikaType": "application\\/vnd.epson.msf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qam": {
+      "tikaType": "application\\/vnd.epson.quickanime",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".slt": {
+      "tikaType": "application\\/vnd.epson.salt",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ssf": {
+      "tikaType": "application\\/vnd.epson.ssf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".es3": {
+      "tikaType": "application\\/vnd.eszigno3+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".et3": {
+      "tikaType": "application\\/vnd.eszigno3+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".asice": {
+      "tikaType": "application\\/vnd.etsi.asic-e+zip",
+      "tikaComment": "Extended Associated Signature Container"
+    }
+  },
+  {
+    ".asics": {
+      "tikaType": "application\\/vnd.etsi.asic-s+zip",
+      "tikaComment": "Simple Associated Signature Container"
+    }
+  },
+  {
+    ".ez2": {
+      "tikaType": "application\\/vnd.ezpix-album",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ez3": {
+      "tikaType": "application\\/vnd.ezpix-package",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fdf": {
+      "tikaType": "application\\/vnd.fdf",
+      "tikaComment": "Forms Data Format"
+    }
+  },
+  {
+    ".mseed": {
+      "tikaType": "application\\/vnd.fdsn.mseed",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".seed": {
+      "tikaType": "application\\/vnd.fdsn.seed",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dataless": {
+      "tikaType": "application\\/vnd.fdsn.seed",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gph": {
+      "tikaType": "application\\/vnd.flographit",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ftc": {
+      "tikaType": "application\\/vnd.fluxtime.clip",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fm": {
+      "tikaType": "application\\/vnd.framemaker",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".frame": {
+      "tikaType": "application\\/vnd.framemaker",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".maker": {
+      "tikaType": "application\\/vnd.framemaker",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".book": {
+      "tikaType": "application\\/vnd.framemaker",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fnc": {
+      "tikaType": "application\\/vnd.frogans.fnc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ltf": {
+      "tikaType": "application\\/vnd.frogans.ltf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fsc": {
+      "tikaType": "application\\/vnd.fsc.weblaunch",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".oas": {
+      "tikaType": "application\\/vnd.fujitsu.oasys",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".oa2": {
+      "tikaType": "application\\/vnd.fujitsu.oasys2",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".oa3": {
+      "tikaType": "application\\/vnd.fujitsu.oasys3",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fg5": {
+      "tikaType": "application\\/vnd.fujitsu.oasysgp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bh2": {
+      "tikaType": "application\\/vnd.fujitsu.oasysprs",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ddd": {
+      "tikaType": "application\\/vnd.fujixerox.ddd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xdw": {
+      "tikaType": "application\\/vnd.fujixerox.docuworks",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xbd": {
+      "tikaType": "application\\/vnd.fujixerox.docuworks.binder",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fzs": {
+      "tikaType": "application\\/vnd.fuzzysheet",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".txd": {
+      "tikaType": "application\\/vnd.genomatix.tuxedo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ggb": {
+      "tikaType": "application\\/vnd.geogebra.file",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ggt": {
+      "tikaType": "application\\/vnd.geogebra.tool",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gex": {
+      "tikaType": "application\\/vnd.geometry-explorer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gre": {
+      "tikaType": "application\\/vnd.geometry-explorer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gmx": {
+      "tikaType": "application\\/vnd.gmx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".kml": {
+      "tikaType": "application\\/vnd.google-earth.kml+xml",
+      "tikaComment": "Keyhole Markup Language"
+    }
+  },
+  {
+    ".kmz": {
+      "tikaType": "application\\/vnd.google-earth.kmz",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gqf": {
+      "tikaType": "application\\/vnd.grafeq",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gqs": {
+      "tikaType": "application\\/vnd.grafeq",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gac": {
+      "tikaType": "application\\/vnd.groove-account",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ghf": {
+      "tikaType": "application\\/vnd.groove-help",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gim": {
+      "tikaType": "application\\/vnd.groove-identity-message",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".grv": {
+      "tikaType": "application\\/vnd.groove-injector",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gtm": {
+      "tikaType": "application\\/vnd.groove-tool-message",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tpl": {
+      "tikaType": "application\\/vnd.groove-tool-template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vcg": {
+      "tikaType": "application\\/vnd.groove-vcard",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".zmm": {
+      "tikaType": "application\\/vnd.handheld-entertainment+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hbci": {
+      "tikaType": "application\\/vnd.hbci",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".les": {
+      "tikaType": "application\\/vnd.hhe.lesson-player",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hpgl": {
+      "tikaType": "application\\/vnd.hp-hpgl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hpid": {
+      "tikaType": "application\\/vnd.hp-hpid",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hps": {
+      "tikaType": "application\\/vnd.hp-hps",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jlt": {
+      "tikaType": "application\\/vnd.hp-jlyt",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pcl": {
+      "tikaType": "application\\/vnd.hp-pcl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pclxl": {
+      "tikaType": "application\\/vnd.hp-pclxl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sfd-hdstx": {
+      "tikaType": "application\\/vnd.hydrostatix.sof-data",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".x3d": {
+      "tikaType": "application\\/vnd.hzn-3d-crossword",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpy": {
+      "tikaType": "application\\/vnd.ibm.minipay",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".afp": {
+      "tikaType": "application\\/vnd.ibm.modcap",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".listafp": {
+      "tikaType": "application\\/vnd.ibm.modcap",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".list3820": {
+      "tikaType": "application\\/vnd.ibm.modcap",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".irm": {
+      "tikaType": "application\\/vnd.ibm.rights-management",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sc": {
+      "tikaType": "application\\/vnd.ibm.secure-container",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".icc": {
+      "tikaType": "application\\/vnd.iccprofile",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".icm": {
+      "tikaType": "application\\/vnd.iccprofile",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".igl": {
+      "tikaType": "application\\/vnd.igloader",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ivp": {
+      "tikaType": "application\\/vnd.immervision-ivp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ivu": {
+      "tikaType": "application\\/vnd.immervision-ivu",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xpw": {
+      "tikaType": "application\\/vnd.intercon.formnet",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xpx": {
+      "tikaType": "application\\/vnd.intercon.formnet",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qbo": {
+      "tikaType": "application\\/vnd.intu.qbo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qfx": {
+      "tikaType": "application\\/vnd.intu.qfx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nar": {
+      "tikaType": "application\\/vnd.iptc.g2.newsmessage+xml",
+      "tikaComment": "XML syntax for IPTC NewsMessages"
+    }
+  },
+  {
+    ".rcprofile": {
+      "tikaType": "application\\/vnd.ipunplugged.rcprofile",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".irp": {
+      "tikaType": "application\\/vnd.irepository.package+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xpr": {
+      "tikaType": "application\\/vnd.is-xpr",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jam": {
+      "tikaType": "application\\/vnd.jam",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rms": {
+      "tikaType": "application\\/vnd.jcp.javame.midlet-rms",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jisp": {
+      "tikaType": "application\\/vnd.jisp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".joda": {
+      "tikaType": "application\\/vnd.joost.joda-archive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ktz": {
+      "tikaType": "application\\/vnd.kahootz",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ktr": {
+      "tikaType": "application\\/vnd.kahootz",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".karbon": {
+      "tikaType": "application\\/vnd.kde.karbon",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".chrt": {
+      "tikaType": "application\\/vnd.kde.kchart",
+      "tikaComment": "KChart File"
+    }
+  },
+  {
+    ".kfo": {
+      "tikaType": "application\\/vnd.kde.kformula",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".flw": {
+      "tikaType": "application\\/vnd.kde.kivio",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".kon": {
+      "tikaType": "application\\/vnd.kde.kontour",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".kpr": {
+      "tikaType": "application\\/vnd.kde.kpresenter",
+      "tikaComment": "KPresenter File"
+    }
+  },
+  {
+    ".kpt": {
+      "tikaType": "application\\/vnd.kde.kpresenter",
+      "tikaComment": "KPresenter File"
+    }
+  },
+  {
+    ".ksp": {
+      "tikaType": "application\\/vnd.kde.kspread",
+      "tikaComment": "KSpread File"
+    }
+  },
+  {
+    ".kwd": {
+      "tikaType": "application\\/vnd.kde.kword",
+      "tikaComment": "KWord File"
+    }
+  },
+  {
+    ".kwt": {
+      "tikaType": "application\\/vnd.kde.kword",
+      "tikaComment": "KWord File"
+    }
+  },
+  {
+    ".htke": {
+      "tikaType": "application\\/vnd.kenameaapp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".kia": {
+      "tikaType": "application\\/vnd.kidspiration",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".kne": {
+      "tikaType": "application\\/vnd.kinar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".knp": {
+      "tikaType": "application\\/vnd.kinar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".skp": {
+      "tikaType": "application\\/vnd.koan",
+      "tikaComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".skd": {
+      "tikaType": "application\\/vnd.koan",
+      "tikaComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".skt": {
+      "tikaType": "application\\/vnd.koan",
+      "tikaComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".skm": {
+      "tikaType": "application\\/vnd.koan",
+      "tikaComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".sse": {
+      "tikaType": "application\\/vnd.kodak-descriptor",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lbd": {
+      "tikaType": "application\\/vnd.llamagraphics.life-balance.desktop",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lbe": {
+      "tikaType": "application\\/vnd.llamagraphics.life-balance.exchange+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wk1": {
+      "tikaType": "application\\/vnd.lotus-1-2-3",
+      "tikaComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk2": {
+      "tikaType": "application\\/vnd.lotus-1-2-3",
+      "tikaComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk3": {
+      "tikaType": "application\\/vnd.lotus-1-2-3",
+      "tikaComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk4": {
+      "tikaType": "application\\/vnd.lotus-1-2-3",
+      "tikaComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".123": {
+      "tikaType": "application\\/vnd.lotus-1-2-3",
+      "tikaComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk1": {
+      "tikaType": "application\\/vnd.lotus-1-2-3;version=2",
+      "tikaComment": "Lotus 1-2-3, version 2"
+    }
+  },
+  {
+    ".wk2": {
+      "tikaType": "application\\/vnd.lotus-1-2-3;version=2",
+      "tikaComment": "Lotus 1-2-3, version 2"
+    }
+  },
+  {
+    ".wk3": {
+      "tikaType": "application\\/vnd.lotus-1-2-3;version=3",
+      "tikaComment": "Lotus 1-2-3, version 3"
+    }
+  },
+  {
+    ".wk4": {
+      "tikaType": "application\\/vnd.lotus-1-2-3;version=4",
+      "tikaComment": "Lotus 1-2-3, version 4-5"
+    }
+  },
+  {
+    ".123": {
+      "tikaType": "application\\/vnd.lotus-1-2-3;version=97+9.x",
+      "tikaComment": "Lotus 1-2-3, version 97\\/9.x"
+    }
+  },
+  {
+    ".apr": {
+      "tikaType": "application\\/vnd.lotus-approach",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pre": {
+      "tikaType": "application\\/vnd.lotus-freelance",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nsf": {
+      "tikaType": "application\\/vnd.lotus-notes",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".org": {
+      "tikaType": "application\\/vnd.lotus-organizer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lwp": {
+      "tikaType": "application\\/vnd.lotus-wordpro",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".portpkg": {
+      "tikaType": "application\\/vnd.macports.portpkg",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mcd": {
+      "tikaType": "application\\/vnd.mcd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mc1": {
+      "tikaType": "application\\/vnd.medcalcdata",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cdkey": {
+      "tikaType": "application\\/vnd.mediastation.cdkey",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mwf": {
+      "tikaType": "application\\/vnd.mfer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mfm": {
+      "tikaType": "application\\/vnd.mfmp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".flo": {
+      "tikaType": "application\\/vnd.micrografx.flo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".igx": {
+      "tikaType": "application\\/vnd.micrografx.igx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mif": {
+      "tikaType": "application\\/vnd.mif",
+      "tikaComment": "FrameMaker Interchange Format"
+    }
+  },
+  {
+    ".mmp": {
+      "tikaType": "application\\/vnd.mindjet.mindmanager",
+      "tikaComment": "MindManager"
+    }
+  },
+  {
+    ".mmap": {
+      "tikaType": "application\\/vnd.mindjet.mindmanager",
+      "tikaComment": "MindManager"
+    }
+  },
+  {
+    ".mmpt": {
+      "tikaType": "application\\/vnd.mindjet.mindmanager",
+      "tikaComment": "MindManager"
+    }
+  },
+  {
+    ".mmat": {
+      "tikaType": "application\\/vnd.mindjet.mindmanager",
+      "tikaComment": "MindManager"
+    }
+  },
+  {
+    ".mmmp": {
+      "tikaType": "application\\/vnd.mindjet.mindmanager",
+      "tikaComment": "MindManager"
+    }
+  },
+  {
+    ".mmas": {
+      "tikaType": "application\\/vnd.mindjet.mindmanager",
+      "tikaComment": "MindManager"
+    }
+  },
+  {
+    ".daf": {
+      "tikaType": "application\\/vnd.mobius.daf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dis": {
+      "tikaType": "application\\/vnd.mobius.dis",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mbk": {
+      "tikaType": "application\\/vnd.mobius.mbk",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mqy": {
+      "tikaType": "application\\/vnd.mobius.mqy",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".msl": {
+      "tikaType": "application\\/vnd.mobius.msl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".plc": {
+      "tikaType": "application\\/vnd.mobius.plc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".txf": {
+      "tikaType": "application\\/vnd.mobius.txf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpn": {
+      "tikaType": "application\\/vnd.mophun.application",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpc": {
+      "tikaType": "application\\/vnd.mophun.certificate",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xul": {
+      "tikaType": "application\\/vnd.mozilla.xul+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cil": {
+      "tikaType": "application\\/vnd.ms-artgalry",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cab": {
+      "tikaType": "application\\/vnd.ms-cab-compressed",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xls": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlm": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xla": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlc": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlt": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlw": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xll": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xld": {
+      "tikaType": "application\\/vnd.ms-excel",
+      "tikaComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlam": {
+      "tikaType": "application\\/vnd.ms-excel.addin.macroenabled.12",
+      "tikaComment": "Office Open XML Workbook Add-in (macro-enabled)"
+    }
+  },
+  {
+    ".xlsm": {
+      "tikaType": "application\\/vnd.ms-excel.sheet.macroenabled.12",
+      "tikaComment": "Office Open XML Workbook (macro-enabled)"
+    }
+  },
+  {
+    ".xlsb": {
+      "tikaType": "application\\/vnd.ms-excel.sheet.binary.macroenabled.12",
+      "tikaComment": "Microsoft Excel 2007 Binary Spreadsheet"
+    }
+  },
+  {
+    ".eot": {
+      "tikaType": "application\\/vnd.ms-fontobject",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".chm": {
+      "tikaType": "application\\/vnd.ms-htmlhelp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ims": {
+      "tikaType": "application\\/vnd.ms-ims",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lrm": {
+      "tikaType": "application\\/vnd.ms-lrm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".msg": {
+      "tikaType": "application\\/vnd.ms-outlook",
+      "tikaComment": "Microsoft Outlook Message"
+    }
+  },
+  {
+    ".pst": {
+      "tikaType": "application\\/vnd.ms-outlook-pst",
+      "tikaComment": "Outlook Personal Folders File Format"
+    }
+  },
+  {
+    ".ost": {
+      "tikaType": "application\\/vnd.ms-outlook-pst",
+      "tikaComment": "Outlook Personal Folders File Format"
+    }
+  },
+  {
+    ".cat": {
+      "tikaType": "application\\/vnd.ms-pki.seccat",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".stl": {
+      "tikaType": "application\\/vnd.ms-pki.stl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ppt": {
+      "tikaType": "application\\/vnd.ms-powerpoint",
+      "tikaComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".ppz": {
+      "tikaType": "application\\/vnd.ms-powerpoint",
+      "tikaComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".pps": {
+      "tikaType": "application\\/vnd.ms-powerpoint",
+      "tikaComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".pot": {
+      "tikaType": "application\\/vnd.ms-powerpoint",
+      "tikaComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".ppa": {
+      "tikaType": "application\\/vnd.ms-powerpoint",
+      "tikaComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".ppam": {
+      "tikaType": "application\\/vnd.ms-powerpoint.addin.macroenabled.12",
+      "tikaComment": "Office Open XML Presentation Add-in (macro-enabled)"
+    }
+  },
+  {
+    ".pptm": {
+      "tikaType": "application\\/vnd.ms-powerpoint.presentation.macroenabled.12",
+      "tikaComment": "Office Open XML Presentation (macro-enabled)"
+    }
+  },
+  {
+    ".sldm": {
+      "tikaType": "application\\/vnd.ms-powerpoint.slide.macroenabled.12",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ppsm": {
+      "tikaType": "application\\/vnd.ms-powerpoint.slideshow.macroenabled.12",
+      "tikaComment": "Office Open XML Presentation Slideshow (macro-enabled)"
+    }
+  },
+  {
+    ".potm": {
+      "tikaType": "application\\/vnd.ms-powerpoint.template.macroenabled.12",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpp": {
+      "tikaType": "application\\/vnd.ms-project",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpt": {
+      "tikaType": "application\\/vnd.ms-project",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpx": {
+      "tikaType": "application\\/x-project",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".docm": {
+      "tikaType": "application\\/vnd.ms-word.document.macroenabled.12",
+      "tikaComment": "Office Open XML Document (macro-enabled)"
+    }
+  },
+  {
+    ".dotm": {
+      "tikaType": "application\\/vnd.ms-word.template.macroenabled.12",
+      "tikaComment": "Office Open XML Document Template (macro-enabled)"
+    }
+  },
+  {
+    ".wps": {
+      "tikaType": "application\\/vnd.ms-works",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wks": {
+      "tikaType": "application\\/vnd.ms-works",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wcm": {
+      "tikaType": "application\\/vnd.ms-works",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wdb": {
+      "tikaType": "application\\/vnd.ms-works",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wpl": {
+      "tikaType": "application\\/vnd.ms-wpl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xps": {
+      "tikaType": "application\\/vnd.ms-xpsdocument",
+      "tikaComment": "Open XML Paper Specification"
+    }
+  },
+  {
+    ".oxps": {
+      "tikaType": "application\\/vnd.ms-xpsdocument",
+      "tikaComment": "Open XML Paper Specification"
+    }
+  },
+  {
+    ".mseq": {
+      "tikaType": "application\\/vnd.mseq",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mus": {
+      "tikaType": "application\\/vnd.musician",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".msty": {
+      "tikaType": "application\\/vnd.muvee.style",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nlu": {
+      "tikaType": "application\\/vnd.neurolanguage.nlu",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nnd": {
+      "tikaType": "application\\/vnd.noblenet-directory",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nns": {
+      "tikaType": "application\\/vnd.noblenet-sealer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nnw": {
+      "tikaType": "application\\/vnd.noblenet-web",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ngdat": {
+      "tikaType": "application\\/vnd.nokia.n-gage.data",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".n-gage": {
+      "tikaType": "application\\/vnd.nokia.n-gage.symbian.install",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rpst": {
+      "tikaType": "application\\/vnd.nokia.radio-preset",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rpss": {
+      "tikaType": "application\\/vnd.nokia.radio-presets",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".edm": {
+      "tikaType": "application\\/vnd.novadigm.edm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".edx": {
+      "tikaType": "application\\/vnd.novadigm.edx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ext": {
+      "tikaType": "application\\/vnd.novadigm.ext",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".odc": {
+      "tikaType": "application\\/vnd.oasis.opendocument.chart",
+      "tikaComment": "OpenDocument v1.0: Chart document"
+    }
+  },
+  {
+    ".otc": {
+      "tikaType": "application\\/vnd.oasis.opendocument.chart-template",
+      "tikaComment": "OpenDocument v1.0: Chart document used as template"
+    }
+  },
+  {
+    ".odb": {
+      "tikaType": "application\\/vnd.oasis.opendocument.base",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".odf": {
+      "tikaType": "application\\/vnd.oasis.opendocument.formula",
+      "tikaComment": "OpenDocument v1.0: Formula document"
+    }
+  },
+  {
+    ".odft": {
+      "tikaType": "application\\/vnd.oasis.opendocument.formula-template",
+      "tikaComment": "OpenDocument v1.0: Formula document used as template"
+    }
+  },
+  {
+    ".odg": {
+      "tikaType": "application\\/vnd.oasis.opendocument.graphics",
+      "tikaComment": "OpenDocument v1.0: Graphics document (Drawing)"
+    }
+  },
+  {
+    ".otg": {
+      "tikaType": "application\\/vnd.oasis.opendocument.graphics-template",
+      "tikaComment": "OpenDocument v1.0: Graphics document used as template"
+    }
+  },
+  {
+    ".odi": {
+      "tikaType": "application\\/vnd.oasis.opendocument.image",
+      "tikaComment": "OpenDocument v1.0: Image document"
+    }
+  },
+  {
+    ".oti": {
+      "tikaType": "application\\/vnd.oasis.opendocument.image-template",
+      "tikaComment": "OpenDocument v1.0: Image document used as template"
+    }
+  },
+  {
+    ".odp": {
+      "tikaType": "application\\/vnd.oasis.opendocument.presentation",
+      "tikaComment": "OpenDocument v1.0: Presentation document"
+    }
+  },
+  {
+    ".otp": {
+      "tikaType": "application\\/vnd.oasis.opendocument.presentation-template",
+      "tikaComment": "OpenDocument v1.0: Presentation document used as template"
+    }
+  },
+  {
+    ".ods": {
+      "tikaType": "application\\/vnd.oasis.opendocument.spreadsheet",
+      "tikaComment": "OpenDocument v1.0: Spreadsheet document"
+    }
+  },
+  {
+    ".ots": {
+      "tikaType": "application\\/vnd.oasis.opendocument.spreadsheet-template",
+      "tikaComment": "OpenDocument v1.0: Spreadsheet document used as template"
+    }
+  },
+  {
+    ".odt": {
+      "tikaType": "application\\/vnd.oasis.opendocument.text",
+      "tikaComment": "OpenDocument v1.0: Text document"
+    }
+  },
+  {
+    ".otm": {
+      "tikaType": "application\\/vnd.oasis.opendocument.text-master",
+      "tikaComment": "OpenDocument v1.0: Global Text document"
+    }
+  },
+  {
+    ".ott": {
+      "tikaType": "application\\/vnd.oasis.opendocument.text-template",
+      "tikaComment": "OpenDocument v1.0: Text document used as template"
+    }
+  },
+  {
+    ".oth": {
+      "tikaType": "application\\/vnd.oasis.opendocument.text-web",
+      "tikaComment": "OpenDocument v1.0: Text document used as template for HTML documents"
+    }
+  },
+  {
+    ".xo": {
+      "tikaType": "application\\/vnd.olpc-sugar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dd2": {
+      "tikaType": "application\\/vnd.oma.dd2+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".oxt": {
+      "tikaType": "application\\/vnd.openofficeorg.extension",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pptx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "tikaComment": "Office Open XML Presentation"
+    }
+  },
+  {
+    ".thmx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "tikaComment": "Office Open XML Presentation"
+    }
+  },
+  {
+    ".sldx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.presentationml.slide",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".potx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.presentationml.template",
+      "tikaComment": "Office Open XML Presentation Template"
+    }
+  },
+  {
+    ".ppsx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.presentationml.slideshow",
+      "tikaComment": "Office Open XML Presentation Slideshow"
+    }
+  },
+  {
+    ".xlsx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "tikaComment": "Office Open XML Workbook"
+    }
+  },
+  {
+    ".xltx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.spreadsheetml.template",
+      "tikaComment": "Office Open XML Workbook Template"
+    }
+  },
+  {
+    ".xltm": {
+      "tikaType": "application\\/vnd.ms-excel.template.macroenabled.12",
+      "tikaComment": "Office Open XML Workbook Template (macro-enabled)"
+    }
+  },
+  {
+    ".docx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "tikaComment": "Office Open XML Document"
+    }
+  },
+  {
+    ".dotx": {
+      "tikaType": "application\\/vnd.openxmlformats-officedocument.wordprocessingml.template",
+      "tikaComment": "Office Open XML Document Template"
+    }
+  },
+  {
+    ".dp": {
+      "tikaType": "application\\/vnd.osgi.dp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pqa": {
+      "tikaType": "application\\/vnd.palm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".oprc": {
+      "tikaType": "application\\/vnd.palm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".str": {
+      "tikaType": "application\\/vnd.pg.format",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ei6": {
+      "tikaType": "application\\/vnd.pg.osasli",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".efif": {
+      "tikaType": "application\\/vnd.picsel",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".plf": {
+      "tikaType": "application\\/vnd.pocketlearn",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pbd": {
+      "tikaType": "application\\/vnd.powerbuilder6",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".box": {
+      "tikaType": "application\\/vnd.previewsystems.box",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mgz": {
+      "tikaType": "application\\/vnd.proteus.magazine",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qps": {
+      "tikaType": "application\\/vnd.publishare-delta-tree",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ptid": {
+      "tikaType": "application\\/vnd.pvi.ptid1",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qxd": {
+      "tikaType": "application\\/vnd.quark.quarkxpress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qxt": {
+      "tikaType": "application\\/vnd.quark.quarkxpress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qwd": {
+      "tikaType": "application\\/vnd.quark.quarkxpress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qwt": {
+      "tikaType": "application\\/vnd.quark.quarkxpress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qxl": {
+      "tikaType": "application\\/vnd.quark.quarkxpress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".qxb": {
+      "tikaType": "application\\/vnd.quark.quarkxpress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mxl": {
+      "tikaType": "application\\/vnd.recordare.musicxml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".musicxml": {
+      "tikaType": "application\\/vnd.recordare.musicxml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cod": {
+      "tikaType": "application\\/vnd.rim.cod",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rm": {
+      "tikaType": "application\\/vnd.rn-realmedia",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".link66": {
+      "tikaType": "application\\/vnd.route66.link66+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".see": {
+      "tikaType": "application\\/vnd.seemail",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sema": {
+      "tikaType": "application\\/vnd.sema",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".semd": {
+      "tikaType": "application\\/vnd.semd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".semf": {
+      "tikaType": "application\\/vnd.semf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ifm": {
+      "tikaType": "application\\/vnd.shana.informed.formdata",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".itp": {
+      "tikaType": "application\\/vnd.shana.informed.formtemplate",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".iif": {
+      "tikaType": "application\\/vnd.shana.informed.interchange",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ipk": {
+      "tikaType": "application\\/vnd.shana.informed.package",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".twd": {
+      "tikaType": "application\\/vnd.simtech-mindmapper",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".twds": {
+      "tikaType": "application\\/vnd.simtech-mindmapper",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mmf": {
+      "tikaType": "application\\/vnd.smaf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".teacher": {
+      "tikaType": "application\\/vnd.smart.teacher",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sdkm": {
+      "tikaType": "application\\/vnd.solent.sdkm+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sdkd": {
+      "tikaType": "application\\/vnd.solent.sdkm+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dxp": {
+      "tikaType": "application\\/vnd.spotfire.dxp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sfs": {
+      "tikaType": "application\\/vnd.spotfire.sfs",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sdc": {
+      "tikaType": "application\\/vnd.stardivision.calc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sda": {
+      "tikaType": "application\\/vnd.stardivision.draw",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sdd": {
+      "tikaType": "application\\/vnd.stardivision.impress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".smf": {
+      "tikaType": "application\\/vnd.stardivision.math",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sdw": {
+      "tikaType": "application\\/vnd.stardivision.writer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vor": {
+      "tikaType": "application\\/x-staroffice-template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sgl": {
+      "tikaType": "application\\/vnd.stardivision.writer-global",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sxc": {
+      "tikaType": "application\\/vnd.sun.xml.calc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".stc": {
+      "tikaType": "application\\/vnd.sun.xml.calc.template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sxd": {
+      "tikaType": "application\\/vnd.sun.xml.draw",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".std": {
+      "tikaType": "application\\/vnd.sun.xml.draw.template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sxi": {
+      "tikaType": "application\\/vnd.sun.xml.impress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sti": {
+      "tikaType": "application\\/vnd.sun.xml.impress.template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sxm": {
+      "tikaType": "application\\/vnd.sun.xml.math",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sxw": {
+      "tikaType": "application\\/vnd.sun.xml.writer",
+      "tikaComment": "OpenOffice v1.0: Writer Document"
+    }
+  },
+  {
+    ".sxg": {
+      "tikaType": "application\\/vnd.sun.xml.writer.global",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".stw": {
+      "tikaType": "application\\/vnd.sun.xml.writer.template",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sus": {
+      "tikaType": "application\\/vnd.sus-calendar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".susp": {
+      "tikaType": "application\\/vnd.sus-calendar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".svd": {
+      "tikaType": "application\\/vnd.svd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sis": {
+      "tikaType": "application\\/vnd.symbian.install",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sisx": {
+      "tikaType": "application\\/vnd.symbian.install",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xsm": {
+      "tikaType": "application\\/vnd.syncml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bdm": {
+      "tikaType": "application\\/vnd.syncml.dm+wbxml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xdm": {
+      "tikaType": "application\\/vnd.syncml.dm+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tao": {
+      "tikaType": "application\\/vnd.tao.intent-module-archive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pcap": {
+      "tikaType": "application\\/vnd.tcpdump.pcap",
+      "tikaComment": "TCPDump pcap packet capture"
+    }
+  },
+  {
+    ".cap": {
+      "tikaType": "application\\/vnd.tcpdump.pcap",
+      "tikaComment": "TCPDump pcap packet capture"
+    }
+  },
+  {
+    ".dmp": {
+      "tikaType": "application\\/vnd.tcpdump.pcap",
+      "tikaComment": "TCPDump pcap packet capture"
+    }
+  },
+  {
+    ".tmo": {
+      "tikaType": "application\\/vnd.tmobile-livetv",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tpt": {
+      "tikaType": "application\\/vnd.trid.tpt",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mxs": {
+      "tikaType": "application\\/vnd.triscape.mxs",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tra": {
+      "tikaType": "application\\/vnd.trueapp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ufd": {
+      "tikaType": "application\\/vnd.ufdl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ufdl": {
+      "tikaType": "application\\/vnd.ufdl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".utz": {
+      "tikaType": "application\\/vnd.uiq.theme",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".umj": {
+      "tikaType": "application\\/vnd.umajin",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".unityweb": {
+      "tikaType": "application\\/vnd.unity",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".uoml": {
+      "tikaType": "application\\/vnd.uoml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vcx": {
+      "tikaType": "application\\/vnd.vcx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vsd": {
+      "tikaType": "application\\/vnd.visio",
+      "tikaComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vst": {
+      "tikaType": "application\\/vnd.visio",
+      "tikaComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vss": {
+      "tikaType": "application\\/vnd.visio",
+      "tikaComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vsw": {
+      "tikaType": "application\\/vnd.visio",
+      "tikaComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vsdx": {
+      "tikaType": "application\\/vnd.ms-visio.drawing",
+      "tikaComment": "Office Open XML Visio Drawing (macro-free)"
+    }
+  },
+  {
+    ".vstx": {
+      "tikaType": "application\\/vnd.ms-visio.template",
+      "tikaComment": "Office Open XML Visio Template (macro-free)"
+    }
+  },
+  {
+    ".vssx": {
+      "tikaType": "application\\/vnd.ms-visio.stencil",
+      "tikaComment": "Office Open XML Visio Stencil (macro-free)"
+    }
+  },
+  {
+    ".vsdm": {
+      "tikaType": "application\\/vnd.ms-visio.drawing.macroEnabled.12",
+      "tikaComment": "Office Open XML Visio Drawing (macro-enabled)"
+    }
+  },
+  {
+    ".vstm": {
+      "tikaType": "application\\/vnd.ms-visio.template.macroEnabled.12",
+      "tikaComment": "Office Open XML Visio Template (macro-enabled)"
+    }
+  },
+  {
+    ".vssm": {
+      "tikaType": "application\\/vnd.ms-visio.stencil.macroEnabled.12",
+      "tikaComment": "Office Open XML Visio Stencil (macro-enabled)"
+    }
+  },
+  {
+    ".vis": {
+      "tikaType": "application\\/vnd.visionary",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vsf": {
+      "tikaType": "application\\/vnd.vsf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wbxml": {
+      "tikaType": "application\\/vnd.wap.wbxml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wmlc": {
+      "tikaType": "application\\/vnd.wap.wmlc",
+      "tikaComment": "Compiled WML Document"
+    }
+  },
+  {
+    ".wmlsc": {
+      "tikaType": "application\\/vnd.wap.wmlscriptc",
+      "tikaComment": "Compiled WML Script"
+    }
+  },
+  {
+    ".wtb": {
+      "tikaType": "application\\/vnd.webturbo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wpd": {
+      "tikaType": "application\\/vnd.wordperfect",
+      "tikaComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp": {
+      "tikaType": "application\\/vnd.wordperfect",
+      "tikaComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp5": {
+      "tikaType": "application\\/vnd.wordperfect",
+      "tikaComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp6": {
+      "tikaType": "application\\/vnd.wordperfect",
+      "tikaComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".w60": {
+      "tikaType": "application\\/vnd.wordperfect",
+      "tikaComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp61": {
+      "tikaType": "application\\/vnd.wordperfect",
+      "tikaComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wpt": {
+      "tikaType": "application\\/vnd.wordperfect",
+      "tikaComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wqd": {
+      "tikaType": "application\\/vnd.wqd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".stf": {
+      "tikaType": "application\\/vnd.wt.stf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xar": {
+      "tikaType": "application\\/vnd.xara",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xfdl": {
+      "tikaType": "application\\/vnd.xfdl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hvd": {
+      "tikaType": "application\\/vnd.yamaha.hv-dic",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hvs": {
+      "tikaType": "application\\/vnd.yamaha.hv-script",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".hvp": {
+      "tikaType": "application\\/vnd.yamaha.hv-voice",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".osf": {
+      "tikaType": "application\\/vnd.yamaha.openscoreformat",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".osfpvg": {
+      "tikaType": "application\\/vnd.yamaha.openscoreformat.osfpvg+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".saf": {
+      "tikaType": "application\\/vnd.yamaha.smaf-audio",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".spf": {
+      "tikaType": "application\\/vnd.yamaha.smaf-phrase",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cmp": {
+      "tikaType": "application\\/vnd.yellowriver-custom-menu",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".zir": {
+      "tikaType": "application\\/vnd.zul",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".zirz": {
+      "tikaType": "application\\/vnd.zul",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".zaz": {
+      "tikaType": "application\\/vnd.zzazz.deck+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vxml": {
+      "tikaType": "application\\/voicexml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".warc": {
+      "tikaType": "application\\/warc",
+      "tikaComment": "WARC"
+    }
+  },
+  {
+    ".hlp": {
+      "tikaType": "application\\/winhlp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wsdl": {
+      "tikaType": "application\\/wsdl+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wspolicy": {
+      "tikaType": "application\\/wspolicy+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tga": {
+      "tikaType": "image\\/x-tga",
+      "tikaComment": "Targa image data"
+    }
+  },
+  {
+    ".icb": {
+      "tikaType": "image\\/x-tga",
+      "tikaComment": "Targa image data"
+    }
+  },
+  {
+    ".vda": {
+      "tikaType": "image\\/x-tga",
+      "tikaComment": "Targa image data"
+    }
+  },
+  {
+    ".abw": {
+      "tikaType": "application\\/x-abiword",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ace": {
+      "tikaType": "application\\/x-ace-compressed",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".axx": {
+      "tikaType": "application\\/x-axcrypt",
+      "tikaComment": "AxCrypt"
+    }
+  },
+  {
+    ".indd": {
+      "tikaType": "application\\/x-adobe-indesign",
+      "tikaComment": "Adobe InDesign document"
+    }
+  },
+  {
+    ".inx": {
+      "tikaType": "application\\/x-adobe-indesign-interchange",
+      "tikaComment": "Adobe InDesign Interchange format"
+    }
+  },
+  {
+    ".dmg": {
+      "tikaType": "application\\/x-apple-diskimage",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cwk": {
+      "tikaType": "application\\/x-appleworks",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ar": {
+      "tikaType": "application\\/x-archive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".a": {
+      "tikaType": "application\\/x-archive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".arj": {
+      "tikaType": "application\\/x-arj",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aab": {
+      "tikaType": "application\\/x-authorware-bin",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".x32": {
+      "tikaType": "application\\/x-authorware-bin",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".u32": {
+      "tikaType": "application\\/x-authorware-bin",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vox": {
+      "tikaType": "application\\/x-authorware-bin",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aam": {
+      "tikaType": "application\\/x-authorware-map",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aas": {
+      "tikaType": "application\\/x-authorware-seg",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bcpio": {
+      "tikaType": "application\\/x-bcpio",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bib": {
+      "tikaType": "application\\/x-bibtex-text-file",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bibtex": {
+      "tikaType": "application\\/x-bibtex-text-file",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".torrent": {
+      "tikaType": "application\\/x-bittorrent",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gtar": {
+      "tikaType": "application\\/x-gtar",
+      "tikaComment": "GNU tar Compressed File Archive (GNU Tape Archive)"
+    }
+  },
+  {
+    ".br": {
+      "tikaType": "application\\/x-brotli",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".brotli": {
+      "tikaType": "application\\/x-brotli",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bz": {
+      "tikaType": "application\\/x-bzip",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tbz": {
+      "tikaType": "application\\/x-bzip",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bz2": {
+      "tikaType": "application\\/x-bzip2",
+      "tikaComment": "Bzip 2 UNIX Compressed File"
+    }
+  },
+  {
+    ".tbz2": {
+      "tikaType": "application\\/x-bzip2",
+      "tikaComment": "Bzip 2 UNIX Compressed File"
+    }
+  },
+  {
+    ".boz": {
+      "tikaType": "application\\/x-bzip2",
+      "tikaComment": "Bzip 2 UNIX Compressed File"
+    }
+  },
+  {
+    ".vcd": {
+      "tikaType": "application\\/x-cdlink",
+      "tikaComment": "Virtual CD-ROM CD Image File"
+    }
+  },
+  {
+    ".chat": {
+      "tikaType": "application\\/x-chat",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pgn": {
+      "tikaType": "application\\/x-chess-pgn",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".crx": {
+      "tikaType": "application\\/x-chrome-package",
+      "tikaComment": "Chrome Extension Package"
+    }
+  },
+  {
+    ".z": {
+      "tikaType": "application\\/x-compress",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".shw": {
+      "tikaType": "application\\/x-corelpresentations",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cpio": {
+      "tikaType": "application\\/x-cpio",
+      "tikaComment": "UNIX CPIO Archive"
+    }
+  },
+  {
+    ".csh": {
+      "tikaType": "application\\/x-csh",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tcsh": {
+      "tikaType": "application\\/x-csh",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".deb": {
+      "tikaType": "application\\/x-debian-package",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".udeb": {
+      "tikaType": "application\\/x-debian-package",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dex": {
+      "tikaType": "application\\/x-dex",
+      "tikaComment": "Dalvik Executable Format"
+    }
+  },
+  {
+    ".dir": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".dcr": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".dxr": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".cst": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".cct": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".cxt": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".w3d": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".fgd": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".swa": {
+      "tikaType": "application\\/x-director",
+      "tikaComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".wad": {
+      "tikaType": "application\\/x-doom",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ncx": {
+      "tikaType": "application\\/x-dtbncx+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dtb": {
+      "tikaType": "application\\/x-dtbook+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".res": {
+      "tikaType": "application\\/x-dtbresource+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dvi": {
+      "tikaType": "application\\/x-dvi",
+      "tikaComment": "TeX Device Independent Document"
+    }
+  },
+  {
+    ".elc": {
+      "tikaType": "application\\/x-elc",
+      "tikaComment": "Emacs Lisp bytecode"
+    }
+  },
+  {
+    ".emlx": {
+      "tikaType": "message\\/x-emlx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".enw": {
+      "tikaType": "application\\/x-endnote-refer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".enr": {
+      "tikaType": "application\\/x-endnote-refer",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".kil": {
+      "tikaType": "application\\/x-killustrator",
+      "tikaComment": "KIllustrator File"
+    }
+  },
+  {
+    ".exe": {
+      "tikaType": "application\\/x-dosexec",
+      "tikaComment": "DOS\\/Windows executable (EXE)"
+    }
+  },
+  {
+    ".hfa": {
+      "tikaType": "application\\/x-erdas-hfa",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fp7": {
+      "tikaType": "application\\/x-filemaker",
+      "tikaComment": "FileMaker Pro 7"
+    }
+  },
+  {
+    ".bdf": {
+      "tikaType": "application\\/x-font-bdf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gsf": {
+      "tikaType": "application\\/x-font-ghostscript",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".psf": {
+      "tikaType": "application\\/x-font-linux-psf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".otf": {
+      "tikaType": "application\\/x-font-otf",
+      "tikaComment": "OpenType Font"
+    }
+  },
+  {
+    ".pcf": {
+      "tikaType": "application\\/x-font-pcf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".snf": {
+      "tikaType": "application\\/x-font-snf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ttf": {
+      "tikaType": "application\\/x-font-ttf",
+      "tikaComment": "TrueType Font"
+    }
+  },
+  {
+    ".ttc": {
+      "tikaType": "application\\/x-font-ttf",
+      "tikaComment": "TrueType Font"
+    }
+  },
+  {
+    ".pfa": {
+      "tikaType": "application\\/x-font-type1",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pfb": {
+      "tikaType": "application\\/x-font-type1",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".afm": {
+      "tikaType": "application\\/x-font-adobe-metric",
+      "tikaComment": "Adobe Font Metric"
+    }
+  },
+  {
+    ".acfm": {
+      "tikaType": "application\\/x-font-adobe-metric",
+      "tikaComment": "Adobe Font Metric"
+    }
+  },
+  {
+    ".amfm": {
+      "tikaType": "application\\/x-font-adobe-metric",
+      "tikaComment": "Adobe Font Metric"
+    }
+  },
+  {
+    ".pfm": {
+      "tikaType": "application\\/x-font-printer-metric",
+      "tikaComment": "Printer Font Metric"
+    }
+  },
+  {
+    ".spl": {
+      "tikaType": "application\\/x-futuresplash",
+      "tikaComment": "Macromedia FutureSplash File"
+    }
+  },
+  {
+    ".gnucash": {
+      "tikaType": "application\\/x-gnucash",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gnumeric": {
+      "tikaType": "application\\/x-gnumeric",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".grb": {
+      "tikaType": "application\\/x-grib",
+      "tikaComment": "General Regularly-distributed Information in Binary form"
+    }
+  },
+  {
+    ".grb1": {
+      "tikaType": "application\\/x-grib",
+      "tikaComment": "General Regularly-distributed Information in Binary form"
+    }
+  },
+  {
+    ".grb2": {
+      "tikaType": "application\\/x-grib",
+      "tikaComment": "General Regularly-distributed Information in Binary form"
+    }
+  },
+  {
+    ".gz": {
+      "tikaType": "application\\/gzip",
+      "tikaComment": "Gzip Compressed Archive"
+    }
+  },
+  {
+    ".tgz": {
+      "tikaType": "application\\/gzip",
+      "tikaComment": "Gzip Compressed Archive"
+    }
+  },
+  {
+    "-gz": {
+      "tikaType": "application\\/gzip",
+      "tikaComment": "Gzip Compressed Archive"
+    }
+  },
+  {
+    ".zstd": {
+      "tikaType": "application\\/zstd",
+      "tikaComment": "https:\\/\\/en.wikipedia.org\\/wiki\\/Zstandard"
+    }
+  },
+  {
+    ".hdf": {
+      "tikaType": "application\\/x-hdf",
+      "tikaComment": "Hierarchical Data Format File"
+    }
+  },
+  {
+    ".he5": {
+      "tikaType": "application\\/x-hdf",
+      "tikaComment": "Hierarchical Data Format File"
+    }
+  },
+  {
+    ".h5": {
+      "tikaType": "application\\/x-hdf",
+      "tikaComment": "Hierarchical Data Format File"
+    }
+  },
+  {
+    ".ibooks": {
+      "tikaType": "application\\/x-ibooks+zip",
+      "tikaComment": "Apple iBooks Author publication format"
+    }
+  },
+  {
+    ".arc": {
+      "tikaType": "application\\/x-internet-archive",
+      "tikaComment": "ARC"
+    }
+  },
+  {
+    "i_.txt": {
+      "tikaType": "application\\/x-isatab-investigation",
+      "tikaComment": "ISA-Tab Investigation file"
+    }
+  },
+  {
+    "s_.txt": {
+      "tikaType": "application\\/x-isatab",
+      "tikaComment": "ISA-Tab Study file"
+    }
+  },
+  {
+    "a_.txt": {
+      "tikaType": "application\\/x-isatab-assay",
+      "tikaComment": "ISA-Tab Assay file"
+    }
+  },
+  {
+    ".iso": {
+      "tikaType": "application\\/x-iso9660-image",
+      "tikaComment": "ISO 9660 CD-ROM filesystem data"
+    }
+  },
+  {
+    ".ipa": {
+      "tikaType": "application\\/x-itunes-ipa",
+      "tikaComment": "Apple iOS IPA AppStore file"
+    }
+  },
+  {
+    ".jnlp": {
+      "tikaType": "application\\/x-java-jnlp-file",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pack": {
+      "tikaType": "application\\/x-java-pack200",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".latex": {
+      "tikaType": "application\\/x-latex",
+      "tikaComment": "LaTeX Source Document"
+    }
+  },
+  {
+    ".lz4": {
+      "tikaType": "application\\/x-lz4",
+      "tikaComment": "First match LZ4 Frame"
+    }
+  },
+  {
+    ".lz": {
+      "tikaType": "application\\/x-lzip",
+      "tikaComment": "Lzip (LZMA) compressed archive"
+    }
+  },
+  {
+    ".lzma": {
+      "tikaType": "application\\/x-lzma",
+      "tikaComment": "LZMA compressed archive"
+    }
+  },
+  {
+    ".prc": {
+      "tikaType": "application\\/x-mobipocket-ebook",
+      "tikaComment": "Mobipocket Ebook"
+    }
+  },
+  {
+    ".mobi": {
+      "tikaType": "application\\/x-mobipocket-ebook",
+      "tikaComment": "Mobipocket Ebook"
+    }
+  },
+  {
+    ".application": {
+      "tikaType": "application\\/x-ms-application",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wmd": {
+      "tikaType": "application\\/x-ms-wmd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wmz": {
+      "tikaType": "application\\/x-ms-wmz",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xbap": {
+      "tikaType": "application\\/x-ms-xbap",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mdb": {
+      "tikaType": "application\\/x-msaccess",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".obd": {
+      "tikaType": "application\\/x-msbinder",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".crd": {
+      "tikaType": "application\\/x-mscardfile",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".clp": {
+      "tikaType": "application\\/x-msclip",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dll": {
+      "tikaType": "application\\/x-msdownload",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".com": {
+      "tikaType": "application\\/x-msdownload",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".msi": {
+      "tikaType": "application\\/x-ms-installer",
+      "tikaComment": "Microsoft Windows Installer"
+    }
+  },
+  {
+    ".msp": {
+      "tikaType": "application\\/x-ms-installer",
+      "tikaComment": "Microsoft Windows Installer"
+    }
+  },
+  {
+    ".mst": {
+      "tikaType": "application\\/x-ms-installer",
+      "tikaComment": "Microsoft Windows Installer"
+    }
+  },
+  {
+    ".mvb": {
+      "tikaType": "application\\/x-msmediaview",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m13": {
+      "tikaType": "application\\/x-msmediaview",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m14": {
+      "tikaType": "application\\/x-msmediaview",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mny": {
+      "tikaType": "application\\/x-msmoney",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pub": {
+      "tikaType": "application\\/x-mspublisher",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".scd": {
+      "tikaType": "application\\/x-msschedule",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".trm": {
+      "tikaType": "application\\/x-msterminal",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wri": {
+      "tikaType": "application\\/x-mswrite",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".MYI": {
+      "tikaType": "application\\/x-mysql-misam-compressed-index",
+      "tikaComment": "MySQL MISAM Compressed Index"
+    }
+  },
+  {
+    ".MYD": {
+      "tikaType": "application\\/x-mysql-misam-data",
+      "tikaComment": "MySQL MISAM Data"
+    }
+  },
+  {
+    ".nc": {
+      "tikaType": "application\\/x-netcdf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cdf": {
+      "tikaType": "application\\/x-netcdf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".p12": {
+      "tikaType": "application\\/x-pkcs12",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pfx": {
+      "tikaType": "application\\/x-pkcs12",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".p7b": {
+      "tikaType": "application\\/x-pkcs7-certificates",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".spc": {
+      "tikaType": "application\\/x-pkcs7-certificates",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".p7r": {
+      "tikaType": "application\\/x-pkcs7-certreqresp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".prt": {
+      "tikaType": "application\\/x-prt",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wq1": {
+      "tikaType": "application\\/x-quattro-pro",
+      "tikaComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wq2": {
+      "tikaType": "application\\/x-quattro-pro",
+      "tikaComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wkq": {
+      "tikaType": "application\\/x-quattro-pro",
+      "tikaComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".qpw": {
+      "tikaType": "application\\/x-quattro-pro",
+      "tikaComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wb1": {
+      "tikaType": "application\\/x-quattro-pro",
+      "tikaComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wb2": {
+      "tikaType": "application\\/x-quattro-pro",
+      "tikaComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wb3": {
+      "tikaType": "application\\/x-quattro-pro",
+      "tikaComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wq1": {
+      "tikaType": "application\\/x-quattro-pro;version=1-4",
+      "tikaComment": "Quattro Pro for DOS, version 1-4"
+    }
+  },
+  {
+    ".wkq": {
+      "tikaType": "application\\/x-quattro-pro;version=1-4",
+      "tikaComment": "Quattro Pro for DOS, version 1-4"
+    }
+  },
+  {
+    ".wq2": {
+      "tikaType": "application\\/x-quattro-pro;version=5",
+      "tikaComment": "Quattro Pro for DOS, version 5"
+    }
+  },
+  {
+    ".wkq": {
+      "tikaType": "application\\/x-quattro-pro;version=5",
+      "tikaComment": "Quattro Pro for DOS, version 5"
+    }
+  },
+  {
+    ".wb1": {
+      "tikaType": "application\\/x-quattro-pro;version=1+5",
+      "tikaComment": "Quattro Pro for Windows, version 1, 5"
+    }
+  },
+  {
+    ".wb2": {
+      "tikaType": "application\\/x-quattro-pro;version=6",
+      "tikaComment": "Quattro Pro for Windows, version 6"
+    }
+  },
+  {
+    ".xq": {
+      "tikaType": "application\\/xquery",
+      "tikaComment": "XQuery source code"
+    }
+  },
+  {
+    ".xquery": {
+      "tikaType": "application\\/xquery",
+      "tikaComment": "XQuery source code"
+    }
+  },
+  {
+    ".rar": {
+      "tikaType": "application\\/x-rar-compressed",
+      "tikaComment": "RAR archive"
+    }
+  },
+  {
+    ".toast": {
+      "tikaType": "application\\/x-roxio-toast",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rpm": {
+      "tikaType": "application\\/x-rpm",
+      "tikaComment": "RedHat Package Manager"
+    }
+  },
+  {
+    ".sas": {
+      "tikaType": "application\\/x-sas",
+      "tikaComment": "SAS Program"
+    }
+  },
+  {
+    ".ss7": {
+      "tikaType": "application\\/x-sas-program-data",
+      "tikaComment": "SAS Stored Program (DATA Step)"
+    }
+  },
+  {
+    ".sas7bpgm": {
+      "tikaType": "application\\/x-sas-program-data",
+      "tikaComment": "SAS Stored Program (DATA Step)"
+    }
+  },
+  {
+    ".st7": {
+      "tikaType": "application\\/x-sas-audit",
+      "tikaComment": "SAS Audit"
+    }
+  },
+  {
+    ".sas7baud": {
+      "tikaType": "application\\/x-sas-audit",
+      "tikaComment": "SAS Audit"
+    }
+  },
+  {
+    ".sd2": {
+      "tikaType": "application\\/x-sas-data-v6",
+      "tikaComment": "SAS v6 Data Set"
+    }
+  },
+  {
+    ".sd7": {
+      "tikaType": "application\\/x-sas-data",
+      "tikaComment": "SAS Data Set"
+    }
+  },
+  {
+    ".sas7bdat": {
+      "tikaType": "application\\/x-sas-data",
+      "tikaComment": "SAS Data Set"
+    }
+  },
+  {
+    ".sv7": {
+      "tikaType": "application\\/x-sas-view",
+      "tikaComment": "SAS Data Set View"
+    }
+  },
+  {
+    ".sas7bvew": {
+      "tikaType": "application\\/x-sas-view",
+      "tikaComment": "SAS Data Set View"
+    }
+  },
+  {
+    ".si7": {
+      "tikaType": "application\\/x-sas-data-index",
+      "tikaComment": "SAS Data Set Index"
+    }
+  },
+  {
+    ".sas7bndx": {
+      "tikaType": "application\\/x-sas-data-index",
+      "tikaComment": "SAS Data Set Index"
+    }
+  },
+  {
+    ".sc7": {
+      "tikaType": "application\\/x-sas-catalog",
+      "tikaComment": "SAS Catalog"
+    }
+  },
+  {
+    ".sas7bcat": {
+      "tikaType": "application\\/x-sas-catalog",
+      "tikaComment": "SAS Catalog"
+    }
+  },
+  {
+    ".sa7": {
+      "tikaType": "application\\/x-sas-access",
+      "tikaComment": "SAS Access Descriptor"
+    }
+  },
+  {
+    ".sas7bacs": {
+      "tikaType": "application\\/x-sas-access",
+      "tikaComment": "SAS Access Descriptor"
+    }
+  },
+  {
+    ".sf7": {
+      "tikaType": "application\\/x-sas-fdb",
+      "tikaComment": "SAS FDB Consolidation Database File"
+    }
+  },
+  {
+    ".sas7bfdb": {
+      "tikaType": "application\\/x-sas-fdb",
+      "tikaComment": "SAS FDB Consolidation Database File"
+    }
+  },
+  {
+    ".sm7": {
+      "tikaType": "application\\/x-sas-mddb",
+      "tikaComment": "SAS MDDB Multi-Dimensional Database File"
+    }
+  },
+  {
+    ".sas7bmdb": {
+      "tikaType": "application\\/x-sas-mddb",
+      "tikaComment": "SAS MDDB Multi-Dimensional Database File"
+    }
+  },
+  {
+    ".s7m": {
+      "tikaType": "application\\/x-sas-dmdb",
+      "tikaComment": "SAS DMDB Data Mining Database File"
+    }
+  },
+  {
+    ".sas7bdmd": {
+      "tikaType": "application\\/x-sas-dmdb",
+      "tikaComment": "SAS DMDB Data Mining Database File"
+    }
+  },
+  {
+    ".sr7": {
+      "tikaType": "application\\/x-sas-itemstor",
+      "tikaComment": "SAS Item Store (ItemStor) File"
+    }
+  },
+  {
+    ".sas7bitm": {
+      "tikaType": "application\\/x-sas-itemstor",
+      "tikaComment": "SAS Item Store (ItemStor) File"
+    }
+  },
+  {
+    ".su7": {
+      "tikaType": "application\\/x-sas-utility",
+      "tikaComment": "SAS Utility"
+    }
+  },
+  {
+    ".sas7butl": {
+      "tikaType": "application\\/x-sas-utility",
+      "tikaComment": "SAS Utility"
+    }
+  },
+  {
+    ".sp7": {
+      "tikaType": "application\\/x-sas-putility",
+      "tikaComment": "SAS Permanent Utility"
+    }
+  },
+  {
+    ".sas7bput": {
+      "tikaType": "application\\/x-sas-putility",
+      "tikaComment": "SAS Permanent Utility"
+    }
+  },
+  {
+    ".stx": {
+      "tikaType": "application\\/x-sas-transport",
+      "tikaComment": "SAS Transport File"
+    }
+  },
+  {
+    ".sas7bbak": {
+      "tikaType": "application\\/x-sas-backup",
+      "tikaComment": "SAS Backup"
+    }
+  },
+  {
+    ".xpt": {
+      "tikaType": "application\\/x-sas-xport",
+      "tikaComment": "SAS XPORT Transfer File"
+    }
+  },
+  {
+    ".xport": {
+      "tikaType": "application\\/x-sas-xport",
+      "tikaComment": "SAS XPORT Transfer File"
+    }
+  },
+  {
+    ".sh": {
+      "tikaType": "application\\/x-sh",
+      "tikaComment": "UNIX\\/LINUX Shell Script"
+    }
+  },
+  {
+    ".bash": {
+      "tikaType": "application\\/x-sh",
+      "tikaComment": "UNIX\\/LINUX Shell Script"
+    }
+  },
+  {
+    ".shar": {
+      "tikaType": "application\\/x-shar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".shp": {
+      "tikaType": "application\\/x-shapefile",
+      "tikaComment": "ESRI Shapefiles"
+    }
+  },
+  {
+    ".swf": {
+      "tikaType": "application\\/x-shockwave-flash",
+      "tikaComment": "Adobe Flash"
+    }
+  },
+  {
+    ".xap": {
+      "tikaType": "application\\/x-silverlight-app",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sz": {
+      "tikaType": "application\\/x-snappy-framed",
+      "tikaComment": "Snappy Framed"
+    }
+  },
+  {
+    ".sfdu": {
+      "tikaType": "application\\/x-sfdu",
+      "tikaComment": "Standard Formatted Data Units (SFDUs) data"
+    }
+  },
+  {
+    ".do": {
+      "tikaType": "application\\/x-stata-do",
+      "tikaComment": "Stata DTA Script"
+    }
+  },
+  {
+    ".dta": {
+      "tikaType": "application\\/x-stata-dta",
+      "tikaComment": "Stata DTA Dataset"
+    }
+  },
+  {
+    ".sit": {
+      "tikaType": "application\\/x-stuffit",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sitx": {
+      "tikaType": "application\\/x-stuffitx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sv4cpio": {
+      "tikaType": "application\\/x-sv4cpio",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sv4crc": {
+      "tikaType": "application\\/x-sv4crc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tar": {
+      "tikaType": "application\\/x-tar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tex": {
+      "tikaType": "application\\/x-tex",
+      "tikaComment": "TeX Source"
+    }
+  },
+  {
+    ".tfm": {
+      "tikaType": "application\\/x-tex-tfm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".texinfo": {
+      "tikaType": "application\\/x-texinfo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".texi": {
+      "tikaType": "application\\/x-texinfo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xlr": {
+      "tikaType": "application\\/x-tika-msworks-spreadsheet",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".uc2": {
+      "tikaType": "application\\/x-uc2-compressed",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ustar": {
+      "tikaType": "application\\/x-ustar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vmdk": {
+      "tikaType": "application\\/x-vmdk",
+      "tikaComment": "Virtual Disk Format"
+    }
+  },
+  {
+    ".src": {
+      "tikaType": "application\\/x-wais-source",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".webarchive": {
+      "tikaType": "application\\/x-webarchive",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".der": {
+      "tikaType": "application\\/x-x509-ca-cert",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".crt": {
+      "tikaType": "application\\/x-x509-ca-cert",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fig": {
+      "tikaType": "application\\/x-xfig",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xpi": {
+      "tikaType": "application\\/x-xpinstall",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xmind": {
+      "tikaType": "application\\/x-xmind",
+      "tikaComment": "XMind Pro"
+    }
+  },
+  {
+    ".xz": {
+      "tikaType": "application\\/x-xz",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".zoo": {
+      "tikaType": "application\\/x-zoo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xenc": {
+      "tikaType": "application\\/xenc+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xhtml": {
+      "tikaType": "application\\/xhtml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xhtml2": {
+      "tikaType": "application\\/xhtml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xht": {
+      "tikaType": "application\\/xhtml+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xml": {
+      "tikaType": "application\\/xml",
+      "tikaComment": "Extensible Markup Language"
+    }
+  },
+  {
+    ".xsl": {
+      "tikaType": "application\\/xml",
+      "tikaComment": "Extensible Markup Language"
+    }
+  },
+  {
+    ".xsd": {
+      "tikaType": "application\\/xml",
+      "tikaComment": "Extensible Markup Language"
+    }
+  },
+  {
+    ".dtd": {
+      "tikaType": "application\\/xml-dtd",
+      "tikaComment": "XML Document Type Definition"
+    }
+  },
+  {
+    ".xop": {
+      "tikaType": "application\\/xop+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xslfo": {
+      "tikaType": "application\\/xslfo+xml",
+      "tikaComment": "XSL Format"
+    }
+  },
+  {
+    ".fo": {
+      "tikaType": "application\\/xslfo+xml",
+      "tikaComment": "XSL Format"
+    }
+  },
+  {
+    ".xslt": {
+      "tikaType": "application\\/xslt+xml",
+      "tikaComment": "XSL Transformations"
+    }
+  },
+  {
+    ".xspf": {
+      "tikaType": "application\\/xspf+xml",
+      "tikaComment": "XML Shareable Playlist Format"
+    }
+  },
+  {
+    ".mxml": {
+      "tikaType": "application\\/xv+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xhvml": {
+      "tikaType": "application\\/xv+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xvml": {
+      "tikaType": "application\\/xv+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xvm": {
+      "tikaType": "application\\/xv+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".zip": {
+      "tikaType": "application\\/zip",
+      "tikaComment": "Compressed Archive File"
+    }
+  },
+  {
+    ".7z": {
+      "tikaType": "application\\/x-7z-compressed",
+      "tikaComment": "7-zip archive"
+    }
+  },
+  {
+    ".ac3": {
+      "tikaType": "audio\\/ac3",
+      "tikaComment": "Dolby Digital Audio Compression File"
+    }
+  },
+  {
+    ".adp": {
+      "tikaType": "audio\\/adpcm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".amr": {
+      "tikaType": "audio\\/amr",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".au": {
+      "tikaType": "audio\\/basic",
+      "tikaComment": "uLaw\\/AU Audio File"
+    }
+  },
+  {
+    ".snd": {
+      "tikaType": "audio\\/basic",
+      "tikaComment": "uLaw\\/AU Audio File"
+    }
+  },
+  {
+    ".mid": {
+      "tikaType": "audio\\/midi",
+      "tikaComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".midi": {
+      "tikaType": "audio\\/midi",
+      "tikaComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".kar": {
+      "tikaType": "audio\\/midi",
+      "tikaComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".rmi": {
+      "tikaType": "audio\\/midi",
+      "tikaComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".mp4a": {
+      "tikaType": "audio\\/mp4",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m4a": {
+      "tikaType": "audio\\/mp4",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m4b": {
+      "tikaType": "audio\\/mp4",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpga": {
+      "tikaType": "audio\\/mpeg",
+      "tikaComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".mp2": {
+      "tikaType": "audio\\/mpeg",
+      "tikaComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".mp2a": {
+      "tikaType": "audio\\/mpeg",
+      "tikaComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".mp3": {
+      "tikaType": "audio\\/mpeg",
+      "tikaComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".m2a": {
+      "tikaType": "audio\\/mpeg",
+      "tikaComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".m3a": {
+      "tikaType": "audio\\/mpeg",
+      "tikaComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".oga": {
+      "tikaType": "audio\\/ogg",
+      "tikaComment": "Ogg Vorbis Audio"
+    }
+  },
+  {
+    ".ogg": {
+      "tikaType": "audio\\/vorbis",
+      "tikaComment": "Ogg Vorbis Codec Compressed WAV File"
+    }
+  },
+  {
+    ".opus": {
+      "tikaType": "audio\\/opus",
+      "tikaComment": "Ogg Opus Codec Compressed WAV File"
+    }
+  },
+  {
+    ".spx": {
+      "tikaType": "audio\\/speex",
+      "tikaComment": "Ogg Speex Codec Compressed WAV File"
+    }
+  },
+  {
+    ".asnd": {
+      "tikaType": "audio\\/vnd.adobe.soundbooth",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".eol": {
+      "tikaType": "audio\\/vnd.digital-winds",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dts": {
+      "tikaType": "audio\\/vnd.dts",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dtshd": {
+      "tikaType": "audio\\/vnd.dts.hd",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".lvp": {
+      "tikaType": "audio\\/vnd.lucent.voice",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pya": {
+      "tikaType": "audio\\/vnd.ms-playready.media.pya",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ecelp4800": {
+      "tikaType": "audio\\/vnd.nuera.ecelp4800",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ecelp7470": {
+      "tikaType": "audio\\/vnd.nuera.ecelp7470",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ecelp9600": {
+      "tikaType": "audio\\/vnd.nuera.ecelp9600",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aac": {
+      "tikaType": "audio\\/x-aac",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aif": {
+      "tikaType": "audio\\/x-aiff",
+      "tikaComment": "Audio Interchange File Format"
+    }
+  },
+  {
+    ".aiff": {
+      "tikaType": "audio\\/x-aiff",
+      "tikaComment": "Audio Interchange File Format"
+    }
+  },
+  {
+    ".aifc": {
+      "tikaType": "audio\\/x-aiff",
+      "tikaComment": "Audio Interchange File Format"
+    }
+  },
+  {
+    ".caf": {
+      "tikaType": "audio\\/x-caf",
+      "tikaComment": "Core Audio Format"
+    }
+  },
+  {
+    ".flac": {
+      "tikaType": "audio\\/x-flac",
+      "tikaComment": "Free Lossless Audio Codec"
+    }
+  },
+  {
+    ".mod": {
+      "tikaType": "audio\\/x-mod",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m3u": {
+      "tikaType": "audio\\/x-mpegurl",
+      "tikaComment": "MP3 Playlist File"
+    }
+  },
+  {
+    ".wax": {
+      "tikaType": "audio\\/x-ms-wax",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wma": {
+      "tikaType": "audio\\/x-ms-wma",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ram": {
+      "tikaType": "audio\\/x-pn-realaudio",
+      "tikaComment": "Real Audio"
+    }
+  },
+  {
+    ".ra": {
+      "tikaType": "audio\\/x-pn-realaudio",
+      "tikaComment": "Real Audio"
+    }
+  },
+  {
+    ".rmp": {
+      "tikaType": "audio\\/x-pn-realaudio-plugin",
+      "tikaComment": "RealMedia Player Plug-in"
+    }
+  },
+  {
+    ".wav": {
+      "tikaType": "audio\\/vnd.wave",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cdx": {
+      "tikaType": "chemical\\/x-cdx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cif": {
+      "tikaType": "chemical\\/x-cif",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cmdf": {
+      "tikaType": "chemical\\/x-cmdf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cml": {
+      "tikaType": "chemical\\/x-cml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".csml": {
+      "tikaType": "chemical\\/x-csml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pdb": {
+      "tikaType": "chemical\\/x-pdb",
+      "tikaComment": "Brookhaven Protein Databank File"
+    }
+  },
+  {
+    ".xyz": {
+      "tikaType": "chemical\\/x-xyz",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".exr": {
+      "tikaType": "image\\/aces",
+      "tikaComment": "ACES Image Container File"
+    }
+  },
+  {
+    ".bmp": {
+      "tikaType": "image\\/bmp",
+      "tikaComment": "Windows bitmap"
+    }
+  },
+  {
+    ".dib": {
+      "tikaType": "image\\/bmp",
+      "tikaComment": "Windows bitmap"
+    }
+  },
+  {
+    ".bpg": {
+      "tikaType": "image\\/x-bpg",
+      "tikaComment": "Better Portable Graphics"
+    }
+  },
+  {
+    ".cgm": {
+      "tikaType": "image\\/cgm",
+      "tikaComment": "Computer Graphics Metafile"
+    }
+  },
+  {
+    ".dpx": {
+      "tikaType": "image\\/x-dpx",
+      "tikaComment": "Digital Picture Exchange from SMPTE"
+    }
+  },
+  {
+    ".emf": {
+      "tikaType": "image\\/emf",
+      "tikaComment": "Enhanced Metafile"
+    }
+  },
+  {
+    ".emz": {
+      "tikaType": "image\\/x-emf-compressed",
+      "tikaComment": "Compressed Enhanced Metafile"
+    }
+  },
+  {
+    ".g3": {
+      "tikaType": "image\\/g3fax",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gif": {
+      "tikaType": "image\\/gif",
+      "tikaComment": "Graphics Interchange Format"
+    }
+  },
+  {
+    ".icns": {
+      "tikaType": "image\\/icns",
+      "tikaComment": "Apple Icon Image Format"
+    }
+  },
+  {
+    ".ief": {
+      "tikaType": "image\\/ief",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jp2": {
+      "tikaType": "image\\/jp2",
+      "tikaComment": "JPEG 2000 Part 1 (JP2)"
+    }
+  },
+  {
+    ".jpg": {
+      "tikaType": "image\\/jpeg",
+      "tikaComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jpeg": {
+      "tikaType": "image\\/jpeg",
+      "tikaComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jpe": {
+      "tikaType": "image\\/jpeg",
+      "tikaComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jif": {
+      "tikaType": "image\\/jpeg",
+      "tikaComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jfif": {
+      "tikaType": "image\\/jpeg",
+      "tikaComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jfi": {
+      "tikaType": "image\\/jpeg",
+      "tikaComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jpm": {
+      "tikaType": "image\\/jpm",
+      "tikaComment": "JPEG 2000 Part 6 (JPM)"
+    }
+  },
+  {
+    ".jpgm": {
+      "tikaType": "image\\/jpm",
+      "tikaComment": "JPEG 2000 Part 6 (JPM)"
+    }
+  },
+  {
+    ".jpf": {
+      "tikaType": "image\\/jpx",
+      "tikaComment": "JPEG 2000 Part 2 (JPX)"
+    }
+  },
+  {
+    ".ntf": {
+      "tikaType": "image\\/nitf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".nitf": {
+      "tikaType": "image\\/nitf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".png": {
+      "tikaType": "image\\/png",
+      "tikaComment": "Portable Network Graphics"
+    }
+  },
+  {
+    ".btif": {
+      "tikaType": "image\\/prs.btif",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".svg": {
+      "tikaType": "image\\/svg+xml",
+      "tikaComment": "Scalable Vector Graphics"
+    }
+  },
+  {
+    ".svgz": {
+      "tikaType": "image\\/svg+xml",
+      "tikaComment": "Scalable Vector Graphics"
+    }
+  },
+  {
+    ".tiff": {
+      "tikaType": "image\\/tiff",
+      "tikaComment": "Tagged Image File Format"
+    }
+  },
+  {
+    ".tif": {
+      "tikaType": "image\\/tiff",
+      "tikaComment": "Tagged Image File Format"
+    }
+  },
+  {
+    ".psd": {
+      "tikaType": "image\\/vnd.adobe.photoshop",
+      "tikaComment": "Photoshop Image"
+    }
+  },
+  {
+    ".ppj": {
+      "tikaType": "image\\/vnd.adobe.premiere",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".djvu": {
+      "tikaType": "image\\/vnd.djvu",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".djv": {
+      "tikaType": "image\\/vnd.djvu",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dwg": {
+      "tikaType": "image\\/vnd.dwg",
+      "tikaComment": "AutoCad Drawing"
+    }
+  },
+  {
+    ".dxb": {
+      "tikaType": "image\\/vnd.dxb",
+      "tikaComment": "AutoCAD DXF simplified Binary"
+    }
+  },
+  {
+    ".dxf": {
+      "tikaType": "image\\/vnd.dxf",
+      "tikaComment": "AutoCAD DXF"
+    }
+  },
+  {
+    ".fbs": {
+      "tikaType": "image\\/vnd.fastbidsheet",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fpx": {
+      "tikaType": "image\\/vnd.fpx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fst": {
+      "tikaType": "image\\/vnd.fst",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mmr": {
+      "tikaType": "image\\/vnd.fujixerox.edmics-mmr",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rlc": {
+      "tikaType": "image\\/vnd.fujixerox.edmics-rlc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ico": {
+      "tikaType": "image\\/vnd.microsoft.icon",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mdi": {
+      "tikaType": "image\\/vnd.ms-modi",
+      "tikaComment": "Microsoft Document Imaging"
+    }
+  },
+  {
+    ".npx": {
+      "tikaType": "image\\/vnd.net-fpx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wbmp": {
+      "tikaType": "image\\/vnd.wap.wbmp",
+      "tikaComment": "Wireless Bitmap File Format"
+    }
+  },
+  {
+    ".dcx": {
+      "tikaType": "image\\/vnd.zbrush.dcx",
+      "tikaComment": "ZSoft Multi-Page Paintbrush"
+    }
+  },
+  {
+    ".pcx": {
+      "tikaType": "image\\/vnd.zbrush.pcx",
+      "tikaComment": "ZSoft Paintbrush PiCture eXchange"
+    }
+  },
+  {
+    ".webp": {
+      "tikaType": "image\\/webp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wmf": {
+      "tikaType": "image\\/wmf",
+      "tikaComment": "Windows Metafile"
+    }
+  },
+  {
+    ".xif": {
+      "tikaType": "image\\/vnd.xiff",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ras": {
+      "tikaType": "image\\/x-cmu-raster",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cmx": {
+      "tikaType": "image\\/x-cmx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fh": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fhc": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh4": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh40": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh5": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh50": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh7": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh8": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh9": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh10": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh11": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh12": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft7": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft8": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft9": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft10": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft11": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft12": {
+      "tikaType": "image\\/x-freehand",
+      "tikaComment": "FreeHand image"
+    }
+  },
+  {
+    ".jb2": {
+      "tikaType": "image\\/x-jbig2",
+      "tikaComment": "\n      A lossless image compression standard from the\n      Joint Bi-level Image Experts Group.\n    "
+    }
+  },
+  {
+    ".jbig2": {
+      "tikaType": "image\\/x-jbig2",
+      "tikaComment": "\n      A lossless image compression standard from the\n      Joint Bi-level Image Experts Group.\n    "
+    }
+  },
+  {
+    ".j2c": {
+      "tikaType": "image\\/x-jp2-codestream",
+      "tikaComment": "JPEG 2000 Codestream"
+    }
+  },
+  {
+    ".pic": {
+      "tikaType": "image\\/x-pict",
+      "tikaComment": "Apple Macintosh QuickDraw\\/PICT Format"
+    }
+  },
+  {
+    ".pct": {
+      "tikaType": "image\\/x-pict",
+      "tikaComment": "Apple Macintosh QuickDraw\\/PICT Format"
+    }
+  },
+  {
+    ".pict": {
+      "tikaType": "image\\/x-pict",
+      "tikaComment": "Apple Macintosh QuickDraw\\/PICT Format"
+    }
+  },
+  {
+    ".pnm": {
+      "tikaType": "image\\/x-portable-anymap",
+      "tikaComment": "Portable Any Map"
+    }
+  },
+  {
+    ".pbm": {
+      "tikaType": "image\\/x-portable-bitmap",
+      "tikaComment": "Portable Bit Map"
+    }
+  },
+  {
+    ".pgm": {
+      "tikaType": "image\\/x-portable-graymap",
+      "tikaComment": "Portable Graymap Graphic"
+    }
+  },
+  {
+    ".ppm": {
+      "tikaType": "image\\/x-portable-pixmap",
+      "tikaComment": "UNIX Portable Bitmap Graphic"
+    }
+  },
+  {
+    ".dng": {
+      "tikaType": "image\\/x-raw-adobe",
+      "tikaComment": "Adobe Digital Negative"
+    }
+  },
+  {
+    ".3fr": {
+      "tikaType": "image\\/x-raw-hasselblad",
+      "tikaComment": "Hasselblad raw image"
+    }
+  },
+  {
+    ".raf": {
+      "tikaType": "image\\/x-raw-fuji",
+      "tikaComment": "Fuji raw image"
+    }
+  },
+  {
+    ".crw": {
+      "tikaType": "image\\/x-raw-canon",
+      "tikaComment": "Canon raw image"
+    }
+  },
+  {
+    ".cr2": {
+      "tikaType": "image\\/x-raw-canon",
+      "tikaComment": "Canon raw image"
+    }
+  },
+  {
+    ".k25": {
+      "tikaType": "image\\/x-raw-kodak",
+      "tikaComment": "Kodak raw image"
+    }
+  },
+  {
+    ".kdc": {
+      "tikaType": "image\\/x-raw-kodak",
+      "tikaComment": "Kodak raw image"
+    }
+  },
+  {
+    ".dcs": {
+      "tikaType": "image\\/x-raw-kodak",
+      "tikaComment": "Kodak raw image"
+    }
+  },
+  {
+    ".drf": {
+      "tikaType": "image\\/x-raw-kodak",
+      "tikaComment": "Kodak raw image"
+    }
+  },
+  {
+    ".mrw": {
+      "tikaType": "image\\/x-raw-minolta",
+      "tikaComment": "Minolta raw image"
+    }
+  },
+  {
+    ".nef": {
+      "tikaType": "image\\/x-raw-nikon",
+      "tikaComment": "Nikon raw image"
+    }
+  },
+  {
+    ".nrw": {
+      "tikaType": "image\\/x-raw-nikon",
+      "tikaComment": "Nikon raw image"
+    }
+  },
+  {
+    ".orf": {
+      "tikaType": "image\\/x-raw-olympus",
+      "tikaComment": "Olympus raw image"
+    }
+  },
+  {
+    ".ptx": {
+      "tikaType": "image\\/x-raw-pentax",
+      "tikaComment": "Pentax raw image"
+    }
+  },
+  {
+    ".pef": {
+      "tikaType": "image\\/x-raw-pentax",
+      "tikaComment": "Pentax raw image"
+    }
+  },
+  {
+    ".arw": {
+      "tikaType": "image\\/x-raw-sony",
+      "tikaComment": "Sony raw image"
+    }
+  },
+  {
+    ".srf": {
+      "tikaType": "image\\/x-raw-sony",
+      "tikaComment": "Sony raw image"
+    }
+  },
+  {
+    ".sr2": {
+      "tikaType": "image\\/x-raw-sony",
+      "tikaComment": "Sony raw image"
+    }
+  },
+  {
+    ".x3f": {
+      "tikaType": "image\\/x-raw-sigma",
+      "tikaComment": "Sigma raw image"
+    }
+  },
+  {
+    ".erf": {
+      "tikaType": "image\\/x-raw-epson",
+      "tikaComment": "Epson raw image"
+    }
+  },
+  {
+    ".mef": {
+      "tikaType": "image\\/x-raw-mamiya",
+      "tikaComment": "Mamiya raw image"
+    }
+  },
+  {
+    ".mos": {
+      "tikaType": "image\\/x-raw-leaf",
+      "tikaComment": "Leaf raw image"
+    }
+  },
+  {
+    ".raw": {
+      "tikaType": "image\\/x-raw-panasonic",
+      "tikaComment": "Panasonic raw image"
+    }
+  },
+  {
+    ".rw2": {
+      "tikaType": "image\\/x-raw-panasonic",
+      "tikaComment": "Panasonic raw image"
+    }
+  },
+  {
+    ".iiq": {
+      "tikaType": "image\\/x-raw-phaseone",
+      "tikaComment": "Phase One raw image"
+    }
+  },
+  {
+    ".r3d": {
+      "tikaType": "image\\/x-raw-red",
+      "tikaComment": "Red raw image"
+    }
+  },
+  {
+    ".fff": {
+      "tikaType": "image\\/x-raw-imacon",
+      "tikaComment": "Imacon raw image"
+    }
+  },
+  {
+    ".pxn": {
+      "tikaType": "image\\/x-raw-logitech",
+      "tikaComment": "Logitech raw image"
+    }
+  },
+  {
+    ".bay": {
+      "tikaType": "image\\/x-raw-casio",
+      "tikaComment": "Casio raw image"
+    }
+  },
+  {
+    ".rwz": {
+      "tikaType": "image\\/x-raw-rawzor",
+      "tikaComment": "Rawzor raw image"
+    }
+  },
+  {
+    ".rgb": {
+      "tikaType": "image\\/x-rgb",
+      "tikaComment": "Silicon Graphics RGB Bitmap"
+    }
+  },
+  {
+    ".xbm": {
+      "tikaType": "image\\/x-xbitmap",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xcf": {
+      "tikaType": "image\\/x-xcf",
+      "tikaComment": "GIMP Image File"
+    }
+  },
+  {
+    ".xpm": {
+      "tikaType": "image\\/x-xpixmap",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xwd": {
+      "tikaType": "image\\/x-xwindowdump",
+      "tikaComment": "X Windows Dump"
+    }
+  },
+  {
+    ".eml": {
+      "tikaType": "message\\/rfc822",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mime": {
+      "tikaType": "message\\/rfc822",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mht": {
+      "tikaType": "multipart\\/related",
+      "tikaComment": "MIME Encapsulation of Aggregate HTML Documents"
+    }
+  },
+  {
+    ".mhtml": {
+      "tikaType": "multipart\\/related",
+      "tikaComment": "MIME Encapsulation of Aggregate HTML Documents"
+    }
+  },
+  {
+    ".igs": {
+      "tikaType": "model\\/iges",
+      "tikaComment": "Initial Graphics Exchange Specification Format"
+    }
+  },
+  {
+    ".iges": {
+      "tikaType": "model\\/iges",
+      "tikaComment": "Initial Graphics Exchange Specification Format"
+    }
+  },
+  {
+    ".msh": {
+      "tikaType": "model\\/mesh",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mesh": {
+      "tikaType": "model\\/mesh",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".silo": {
+      "tikaType": "model\\/mesh",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dwf": {
+      "tikaType": "model\\/vnd.dwf",
+      "tikaComment": "AutoCAD Design Web Format"
+    }
+  },
+  {
+    ".dwfx": {
+      "tikaType": "model\\/vnd.dwfx+xps",
+      "tikaComment": "AutoCAD Design Web Format"
+    }
+  },
+  {
+    ".gdl": {
+      "tikaType": "model\\/vnd.gdl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gtw": {
+      "tikaType": "model\\/vnd.gtw",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mts": {
+      "tikaType": "model\\/vnd.mts",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vtu": {
+      "tikaType": "model\\/vnd.vtu",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wrl": {
+      "tikaType": "model\\/vrml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vrml": {
+      "tikaType": "model\\/vrml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dif": {
+      "tikaType": "application\\/dif+xml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".as": {
+      "tikaType": "text\\/x-actionscript",
+      "tikaComment": "ActionScript source code"
+    }
+  },
+  {
+    ".ada": {
+      "tikaType": "text\\/x-ada",
+      "tikaComment": "Ada source code"
+    }
+  },
+  {
+    ".adb": {
+      "tikaType": "text\\/x-ada",
+      "tikaComment": "Ada source code"
+    }
+  },
+  {
+    ".ads": {
+      "tikaType": "text\\/x-ada",
+      "tikaComment": "Ada source code"
+    }
+  },
+  {
+    ".applescript": {
+      "tikaType": "text\\/x-applescript",
+      "tikaComment": "AppleScript source code"
+    }
+  },
+  {
+    ".asp": {
+      "tikaType": "text\\/asp",
+      "tikaComment": "Active Server Page"
+    }
+  },
+  {
+    ".aspx": {
+      "tikaType": "text\\/aspdotnet",
+      "tikaComment": "ASP .NET"
+    }
+  },
+  {
+    ".aj": {
+      "tikaType": "text\\/x-aspectj",
+      "tikaComment": "AspectJ source code"
+    }
+  },
+  {
+    ".s": {
+      "tikaType": "text\\/x-assembly",
+      "tikaComment": "Assembler source code"
+    }
+  },
+  {
+    ".S": {
+      "tikaType": "text\\/x-assembly",
+      "tikaComment": "Assembler source code"
+    }
+  },
+  {
+    ".asm": {
+      "tikaType": "text\\/x-assembly",
+      "tikaComment": "Assembler source code"
+    }
+  },
+  {
+    ".ics": {
+      "tikaType": "text\\/calendar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ifb": {
+      "tikaType": "text\\/calendar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".config": {
+      "tikaType": "text\\/x-config",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".conf": {
+      "tikaType": "text\\/x-config",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cfg": {
+      "tikaType": "text\\/x-config",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xconf": {
+      "tikaType": "text\\/x-config",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".css": {
+      "tikaType": "text\\/css",
+      "tikaComment": "Cascading Style Sheet"
+    }
+  },
+  {
+    ".csv": {
+      "tikaType": "text\\/csv",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".html": {
+      "tikaType": "text\\/html",
+      "tikaComment": "HyperText Markup Language"
+    }
+  },
+  {
+    ".htm": {
+      "tikaType": "text\\/html",
+      "tikaComment": "HyperText Markup Language"
+    }
+  },
+  {
+    "Makefile": {
+      "tikaType": "text\\/x-makefile",
+      "tikaComment": "Makefile build file"
+    }
+  },
+  {
+    "GNUMakefile": {
+      "tikaType": "text\\/x-makefile",
+      "tikaComment": "Makefile build file"
+    }
+  },
+  {
+    ".txt": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".text": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".def": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".list": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".in": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    "INSTALL": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    "KEYS": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    "LICENSE": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    "NOTICE": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    "README": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    "abs-linkmap": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    "abs-menulinks": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".aart": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ac": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".am": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".apt": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".bsh": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".classpath": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cnd": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cwiki": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".data": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dcl": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dsp": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dsw": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".egrm": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ent": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ft": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fn": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fv": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".grm": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".g": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".htaccess": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".handlers": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".htc": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ihtml": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jmx": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".junit": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jx": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".manifest": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m4": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mf": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".MF": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".meta": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mdo": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".n3": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pen": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pod": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pom": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".project": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rng": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rnx": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".roles": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".schemas": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tld": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".types": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vm": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vsl": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wsdd": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xargs": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xcat": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xegrm": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xgrm": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xlex": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xlog": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xmap": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xroles": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xsamples": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xsp": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xtest": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xweb": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".xwelcome": {
+      "tikaType": "text\\/plain",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dsc": {
+      "tikaType": "text\\/prs.lines.tag",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".rtx": {
+      "tikaType": "text\\/richtext",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sgml": {
+      "tikaType": "text\\/sgml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".sgm": {
+      "tikaType": "text\\/sgml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".tsv": {
+      "tikaType": "text\\/tab-separated-values",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".t": {
+      "tikaType": "text\\/troff",
+      "tikaComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".tr": {
+      "tikaType": "text\\/troff",
+      "tikaComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".roff": {
+      "tikaType": "text\\/troff",
+      "tikaComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".nroff": {
+      "tikaType": "text\\/troff",
+      "tikaComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".man": {
+      "tikaType": "text\\/troff",
+      "tikaComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".me": {
+      "tikaType": "text\\/troff",
+      "tikaComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".ms": {
+      "tikaType": "text\\/troff",
+      "tikaComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".uri": {
+      "tikaType": "text\\/uri-list",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".uris": {
+      "tikaType": "text\\/uri-list",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".urls": {
+      "tikaType": "text\\/uri-list",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".curl": {
+      "tikaType": "text\\/vnd.curl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".dcurl": {
+      "tikaType": "text\\/vnd.curl.dcurl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".scurl": {
+      "tikaType": "text\\/vnd.curl.scurl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mcurl": {
+      "tikaType": "text\\/vnd.curl.mcurl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fly": {
+      "tikaType": "text\\/vnd.fly",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".flx": {
+      "tikaType": "text\\/vnd.fmi.flexstor",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".gv": {
+      "tikaType": "text\\/vnd.graphviz",
+      "tikaComment": "Graphviz Graph Visualization Software"
+    }
+  },
+  {
+    ".3dml": {
+      "tikaType": "text\\/vnd.in3d.3dml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".spot": {
+      "tikaType": "text\\/vnd.in3d.spot",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".anpa": {
+      "tikaType": "text\\/vnd.iptc.anpa",
+      "tikaComment": "American Newspaper Publishers Association Wire Feeds"
+    }
+  },
+  {
+    ".jad": {
+      "tikaType": "text\\/vnd.sun.j2me.app-descriptor",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wml": {
+      "tikaType": "text\\/vnd.wap.wml",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wmls": {
+      "tikaType": "text\\/vnd.wap.wmlscript",
+      "tikaComment": "WML Script"
+    }
+  },
+  {
+    ".vtt": {
+      "tikaType": "text\\/vtt",
+      "tikaComment": "Web Video Text Tracks Format"
+    }
+  },
+  {
+    ".awk": {
+      "tikaType": "text\\/x-awk",
+      "tikaComment": "AWK script"
+    }
+  },
+  {
+    ".bas": {
+      "tikaType": "text\\/x-basic",
+      "tikaComment": "Basic source code"
+    }
+  },
+  {
+    ".Bas": {
+      "tikaType": "text\\/x-basic",
+      "tikaComment": "Basic source code"
+    }
+  },
+  {
+    ".BAS": {
+      "tikaType": "text\\/x-basic",
+      "tikaComment": "Basic source code"
+    }
+  },
+  {
+    ".hpp": {
+      "tikaType": "text\\/x-c++hdr",
+      "tikaComment": "C++ source code header"
+    }
+  },
+  {
+    ".hxx": {
+      "tikaType": "text\\/x-c++hdr",
+      "tikaComment": "C++ source code header"
+    }
+  },
+  {
+    ".hh": {
+      "tikaType": "text\\/x-c++hdr",
+      "tikaComment": "C++ source code header"
+    }
+  },
+  {
+    ".H": {
+      "tikaType": "text\\/x-c++hdr",
+      "tikaComment": "C++ source code header"
+    }
+  },
+  {
+    ".h++": {
+      "tikaType": "text\\/x-c++hdr",
+      "tikaComment": "C++ source code header"
+    }
+  },
+  {
+    ".hp": {
+      "tikaType": "text\\/x-c++hdr",
+      "tikaComment": "C++ source code header"
+    }
+  },
+  {
+    ".HPP": {
+      "tikaType": "text\\/x-c++hdr",
+      "tikaComment": "C++ source code header"
+    }
+  },
+  {
+    ".cpp": {
+      "tikaType": "text\\/x-c++src",
+      "tikaComment": "C++ source code"
+    }
+  },
+  {
+    ".cxx": {
+      "tikaType": "text\\/x-c++src",
+      "tikaComment": "C++ source code"
+    }
+  },
+  {
+    ".cc": {
+      "tikaType": "text\\/x-c++src",
+      "tikaComment": "C++ source code"
+    }
+  },
+  {
+    ".C": {
+      "tikaType": "text\\/x-c++src",
+      "tikaComment": "C++ source code"
+    }
+  },
+  {
+    ".c++": {
+      "tikaType": "text\\/x-c++src",
+      "tikaComment": "C++ source code"
+    }
+  },
+  {
+    ".CPP": {
+      "tikaType": "text\\/x-c++src",
+      "tikaComment": "C++ source code"
+    }
+  },
+  {
+    ".cgi": {
+      "tikaType": "text\\/x-cgi",
+      "tikaComment": "CGI script"
+    }
+  },
+  {
+    ".h": {
+      "tikaType": "text\\/x-chdr",
+      "tikaComment": "C source code header"
+    }
+  },
+  {
+    ".clj": {
+      "tikaType": "text\\/x-clojure",
+      "tikaComment": "Clojure source code"
+    }
+  },
+  {
+    ".coffee": {
+      "tikaType": "text\\/x-coffeescript",
+      "tikaComment": "CoffeeScript source code"
+    }
+  },
+  {
+    ".c": {
+      "tikaType": "text\\/x-csrc",
+      "tikaComment": "C source code"
+    }
+  },
+  {
+    ".cs": {
+      "tikaType": "text\\/x-csharp",
+      "tikaComment": "C# source code"
+    }
+  },
+  {
+    ".cbl": {
+      "tikaType": "text\\/x-cobol",
+      "tikaComment": "COBOL source code"
+    }
+  },
+  {
+    ".Cbl": {
+      "tikaType": "text\\/x-cobol",
+      "tikaComment": "COBOL source code"
+    }
+  },
+  {
+    ".CBL": {
+      "tikaType": "text\\/x-cobol",
+      "tikaComment": "COBOL source code"
+    }
+  },
+  {
+    ".cob": {
+      "tikaType": "text\\/x-cobol",
+      "tikaComment": "COBOL source code"
+    }
+  },
+  {
+    ".Cob": {
+      "tikaType": "text\\/x-cobol",
+      "tikaComment": "COBOL source code"
+    }
+  },
+  {
+    ".COB": {
+      "tikaType": "text\\/x-cobol",
+      "tikaComment": "COBOL source code"
+    }
+  },
+  {
+    ".cfm": {
+      "tikaType": "text\\/x-coldfusion",
+      "tikaComment": "ColdFusion source code"
+    }
+  },
+  {
+    ".cfml": {
+      "tikaType": "text\\/x-coldfusion",
+      "tikaComment": "ColdFusion source code"
+    }
+  },
+  {
+    ".cfc": {
+      "tikaType": "text\\/x-coldfusion",
+      "tikaComment": "ColdFusion source code"
+    }
+  },
+  {
+    ".cl": {
+      "tikaType": "text\\/x-common-lisp",
+      "tikaComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".jl": {
+      "tikaType": "text\\/x-common-lisp",
+      "tikaComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".lisp": {
+      "tikaType": "text\\/x-common-lisp",
+      "tikaComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".lsp": {
+      "tikaType": "text\\/x-common-lisp",
+      "tikaComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".diff": {
+      "tikaType": "text\\/x-diff",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".patch": {
+      "tikaType": "text\\/x-diff",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".e": {
+      "tikaType": "text\\/x-eiffel",
+      "tikaComment": "Eiffel source code"
+    }
+  },
+  {
+    ".el": {
+      "tikaType": "text\\/x-emacs-lisp",
+      "tikaComment": "Emacs Lisp source code"
+    }
+  },
+  {
+    ".erl": {
+      "tikaType": "text\\/x-erlang",
+      "tikaComment": "Erlang source code"
+    }
+  },
+  {
+    ".exp": {
+      "tikaType": "text\\/x-expect",
+      "tikaComment": "Expect Script"
+    }
+  },
+  {
+    ".4th": {
+      "tikaType": "text\\/x-forth",
+      "tikaComment": "Forth source code"
+    }
+  },
+  {
+    ".f": {
+      "tikaType": "text\\/x-fortran",
+      "tikaComment": "Fortran source code"
+    }
+  },
+  {
+    ".F": {
+      "tikaType": "text\\/x-fortran",
+      "tikaComment": "Fortran source code"
+    }
+  },
+  {
+    ".for": {
+      "tikaType": "text\\/x-fortran",
+      "tikaComment": "Fortran source code"
+    }
+  },
+  {
+    ".f77": {
+      "tikaType": "text\\/x-fortran",
+      "tikaComment": "Fortran source code"
+    }
+  },
+  {
+    ".f90": {
+      "tikaType": "text\\/x-fortran",
+      "tikaComment": "Fortran source code"
+    }
+  },
+  {
+    ".go": {
+      "tikaType": "text\\/x-go",
+      "tikaComment": "Go source code"
+    }
+  },
+  {
+    ".groovy": {
+      "tikaType": "text\\/x-groovy",
+      "tikaComment": "Groovy source code"
+    }
+  },
+  {
+    ".hs": {
+      "tikaType": "text\\/x-haskell",
+      "tikaComment": "Haskell source code"
+    }
+  },
+  {
+    ".lhs": {
+      "tikaType": "text\\/x-haskell",
+      "tikaComment": "Haskell source code"
+    }
+  },
+  {
+    ".idl": {
+      "tikaType": "text\\/x-idl",
+      "tikaComment": "Inteface Definition Language"
+    }
+  },
+  {
+    ".ini": {
+      "tikaType": "text\\/x-ini",
+      "tikaComment": "Configuration file"
+    }
+  },
+  {
+    ".java": {
+      "tikaType": "text\\/x-java-source",
+      "tikaComment": "Java source code"
+    }
+  },
+  {
+    ".properties": {
+      "tikaType": "text\\/x-java-properties",
+      "tikaComment": "Java Properties"
+    }
+  },
+  {
+    ".jsp": {
+      "tikaType": "text\\/x-jsp",
+      "tikaComment": "Java Server Page"
+    }
+  },
+  {
+    ".less": {
+      "tikaType": "text\\/x-less",
+      "tikaComment": "LESS source code"
+    }
+  },
+  {
+    ".l": {
+      "tikaType": "text\\/x-lex",
+      "tikaComment": "Lex\\/Flex source code"
+    }
+  },
+  {
+    ".log": {
+      "tikaType": "text\\/x-log",
+      "tikaComment": "application log"
+    }
+  },
+  {
+    ".lua": {
+      "tikaType": "text\\/x-lua",
+      "tikaComment": "Lua source code"
+    }
+  },
+  {
+    ".ml": {
+      "tikaType": "text\\/x-ml",
+      "tikaComment": "ML source code"
+    }
+  },
+  {
+    ".mat": {
+      "tikaType": "application\\/x-matlab-data",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m3": {
+      "tikaType": "text\\/x-modula",
+      "tikaComment": "Modula source code"
+    }
+  },
+  {
+    ".i3": {
+      "tikaType": "text\\/x-modula",
+      "tikaComment": "Modula source code"
+    }
+  },
+  {
+    ".mg": {
+      "tikaType": "text\\/x-modula",
+      "tikaComment": "Modula source code"
+    }
+  },
+  {
+    ".ig": {
+      "tikaType": "text\\/x-modula",
+      "tikaComment": "Modula source code"
+    }
+  },
+  {
+    ".m": {
+      "tikaType": "text\\/x-objcsrc",
+      "tikaComment": "Objective-C source code"
+    }
+  },
+  {
+    ".ocaml": {
+      "tikaType": "text\\/x-ocaml",
+      "tikaComment": "Ocaml source code"
+    }
+  },
+  {
+    ".mli": {
+      "tikaType": "text\\/x-ocaml",
+      "tikaComment": "Ocaml source code"
+    }
+  },
+  {
+    ".p": {
+      "tikaType": "text\\/x-pascal",
+      "tikaComment": "Pascal source code"
+    }
+  },
+  {
+    ".pp": {
+      "tikaType": "text\\/x-pascal",
+      "tikaComment": "Pascal source code"
+    }
+  },
+  {
+    ".pas": {
+      "tikaType": "text\\/x-pascal",
+      "tikaComment": "Pascal source code"
+    }
+  },
+  {
+    ".PAS": {
+      "tikaType": "text\\/x-pascal",
+      "tikaComment": "Pascal source code"
+    }
+  },
+  {
+    ".dpr": {
+      "tikaType": "text\\/x-pascal",
+      "tikaComment": "Pascal source code"
+    }
+  },
+  {
+    ".pl": {
+      "tikaType": "text\\/x-perl",
+      "tikaComment": "Perl script"
+    }
+  },
+  {
+    ".pm": {
+      "tikaType": "text\\/x-perl",
+      "tikaComment": "Perl script"
+    }
+  },
+  {
+    ".al": {
+      "tikaType": "text\\/x-perl",
+      "tikaComment": "Perl script"
+    }
+  },
+  {
+    ".perl": {
+      "tikaType": "text\\/x-perl",
+      "tikaComment": "Perl script"
+    }
+  },
+  {
+    ".php": {
+      "tikaType": "text\\/x-php",
+      "tikaComment": "PHP script"
+    }
+  },
+  {
+    ".php3": {
+      "tikaType": "text\\/x-php",
+      "tikaComment": "PHP script"
+    }
+  },
+  {
+    ".php4": {
+      "tikaType": "text\\/x-php",
+      "tikaComment": "PHP script"
+    }
+  },
+  {
+    ".pro": {
+      "tikaType": "text\\/x-prolog",
+      "tikaComment": "Prolog source code"
+    }
+  },
+  {
+    ".py": {
+      "tikaType": "text\\/x-python",
+      "tikaComment": "Python script"
+    }
+  },
+  {
+    ".rest": {
+      "tikaType": "text\\/x-rst",
+      "tikaComment": "reStructuredText source code"
+    }
+  },
+  {
+    ".rst": {
+      "tikaType": "text\\/x-rst",
+      "tikaComment": "reStructuredText source code"
+    }
+  },
+  {
+    ".restx": {
+      "tikaType": "text\\/x-rst",
+      "tikaComment": "reStructuredText source code"
+    }
+  },
+  {
+    ".rexx": {
+      "tikaType": "text\\/x-rexx",
+      "tikaComment": "Rexx source code"
+    }
+  },
+  {
+    ".rb": {
+      "tikaType": "text\\/x-ruby",
+      "tikaComment": "Ruby source code"
+    }
+  },
+  {
+    ".scala": {
+      "tikaType": "text\\/x-scala",
+      "tikaComment": "Scala source code"
+    }
+  },
+  {
+    ".scm": {
+      "tikaType": "text\\/x-scheme",
+      "tikaComment": "Scheme source code"
+    }
+  },
+  {
+    ".sed": {
+      "tikaType": "text\\/x-sed",
+      "tikaComment": "Sed code"
+    }
+  },
+  {
+    ".sql": {
+      "tikaType": "text\\/x-sql",
+      "tikaComment": "SQL code"
+    }
+  },
+  {
+    ".etx": {
+      "tikaType": "text\\/x-setext",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".st": {
+      "tikaType": "text\\/x-stsrc",
+      "tikaComment": "Smalltalk source code"
+    }
+  },
+  {
+    ".itk": {
+      "tikaType": "text\\/x-tcl",
+      "tikaComment": "Tcl script"
+    }
+  },
+  {
+    ".tcl": {
+      "tikaType": "text\\/x-tcl",
+      "tikaComment": "Tcl script"
+    }
+  },
+  {
+    ".tk": {
+      "tikaType": "text\\/x-tcl",
+      "tikaComment": "Tcl script"
+    }
+  },
+  {
+    ".uu": {
+      "tikaType": "text\\/x-uuencode",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".cls": {
+      "tikaType": "text\\/x-vbasic",
+      "tikaComment": "Visual basic source code"
+    }
+  },
+  {
+    ".Cls": {
+      "tikaType": "text\\/x-vbasic",
+      "tikaComment": "Visual basic source code"
+    }
+  },
+  {
+    ".CLS": {
+      "tikaType": "text\\/x-vbasic",
+      "tikaComment": "Visual basic source code"
+    }
+  },
+  {
+    ".frm": {
+      "tikaType": "text\\/x-vbasic",
+      "tikaComment": "Visual basic source code"
+    }
+  },
+  {
+    ".Frm": {
+      "tikaType": "text\\/x-vbasic",
+      "tikaComment": "Visual basic source code"
+    }
+  },
+  {
+    ".FRM": {
+      "tikaType": "text\\/x-vbasic",
+      "tikaComment": "Visual basic source code"
+    }
+  },
+  {
+    ".vb": {
+      "tikaType": "text\\/x-vbdotnet",
+      "tikaComment": "VB.NET source code"
+    }
+  },
+  {
+    ".vbs": {
+      "tikaType": "text\\/x-vbscript",
+      "tikaComment": "VBScript source code"
+    }
+  },
+  {
+    ".vcs": {
+      "tikaType": "text\\/x-vcalendar",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".vcf": {
+      "tikaType": "text\\/x-vcard",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".v": {
+      "tikaType": "text\\/x-verilog",
+      "tikaComment": "Verilog source code"
+    }
+  },
+  {
+    ".vhd": {
+      "tikaType": "text\\/x-vhdl",
+      "tikaComment": "VHDL source code"
+    }
+  },
+  {
+    ".vhdl": {
+      "tikaType": "text\\/x-vhdl",
+      "tikaComment": "VHDL source code"
+    }
+  },
+  {
+    ".md": {
+      "tikaType": "text\\/x-web-markdown",
+      "tikaComment": "Markdown source code"
+    }
+  },
+  {
+    ".mdtext": {
+      "tikaType": "text\\/x-web-markdown",
+      "tikaComment": "Markdown source code"
+    }
+  },
+  {
+    ".mkd": {
+      "tikaType": "text\\/x-web-markdown",
+      "tikaComment": "Markdown source code"
+    }
+  },
+  {
+    ".markdown": {
+      "tikaType": "text\\/x-web-markdown",
+      "tikaComment": "Markdown source code"
+    }
+  },
+  {
+    ".y": {
+      "tikaType": "text\\/x-yacc",
+      "tikaComment": "Yacc\\/Bison source code"
+    }
+  },
+  {
+    ".yaml": {
+      "tikaType": "text\\/x-yaml",
+      "tikaComment": "YAML source code"
+    }
+  },
+  {
+    ".3gp": {
+      "tikaType": "video\\/3gpp",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".3g2": {
+      "tikaType": "video\\/3gpp2",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".h261": {
+      "tikaType": "video\\/h261",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".h263": {
+      "tikaType": "video\\/h263",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".h264": {
+      "tikaType": "video\\/h264",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jpgv": {
+      "tikaType": "video\\/jpeg",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mj2": {
+      "tikaType": "video\\/mj2",
+      "tikaComment": "JPEG 2000 Part 3 (Motion JPEG, MJ2)"
+    }
+  },
+  {
+    ".mjp2": {
+      "tikaType": "video\\/mj2",
+      "tikaComment": "JPEG 2000 Part 3 (Motion JPEG, MJ2)"
+    }
+  },
+  {
+    ".mp4": {
+      "tikaType": "video\\/mp4",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mp4v": {
+      "tikaType": "video\\/mp4",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpg4": {
+      "tikaType": "video\\/mp4",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mpeg": {
+      "tikaType": "video\\/mpeg",
+      "tikaComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".mpg": {
+      "tikaType": "video\\/mpeg",
+      "tikaComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".mpe": {
+      "tikaType": "video\\/mpeg",
+      "tikaComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".m1v": {
+      "tikaType": "video\\/mpeg",
+      "tikaComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".m2v": {
+      "tikaType": "video\\/mpeg",
+      "tikaComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".ogv": {
+      "tikaType": "video\\/ogg",
+      "tikaComment": "Ogg Vorbis Video"
+    }
+  },
+  {
+    ".drc": {
+      "tikaType": "video\\/x-dirac",
+      "tikaComment": "Ogg Packaged Dirac Video"
+    }
+  },
+  {
+    ".ogm": {
+      "tikaType": "video\\/x-ogm",
+      "tikaComment": "Ogg Packaged OGM Video"
+    }
+  },
+  {
+    ".qt": {
+      "tikaType": "video\\/quicktime",
+      "tikaComment": "QuickTime Video"
+    }
+  },
+  {
+    ".mov": {
+      "tikaType": "video\\/quicktime",
+      "tikaComment": "QuickTime Video"
+    }
+  },
+  {
+    ".fvt": {
+      "tikaType": "video\\/vnd.fvt",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mxu": {
+      "tikaType": "video\\/vnd.mpegurl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m4u": {
+      "tikaType": "video\\/vnd.mpegurl",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".pyv": {
+      "tikaType": "video\\/vnd.ms-playready.media.pyv",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".viv": {
+      "tikaType": "video\\/vnd.vivo",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".f4v": {
+      "tikaType": "video\\/x-f4v",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".flc": {
+      "tikaType": "video\\/x-flc",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".fli": {
+      "tikaType": "video\\/x-fli",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".flv": {
+      "tikaType": "video\\/x-flv",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".jng": {
+      "tikaType": "video\\/x-jng",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".m4v": {
+      "tikaType": "video\\/x-m4v",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mng": {
+      "tikaType": "video\\/x-mng",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".asf": {
+      "tikaType": "video\\/x-ms-asf",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".asx": {
+      "tikaType": "application\\/x-ms-asx",
+      "tikaComment": "Windows Media Metafile"
+    }
+  },
+  {
+    ".wm": {
+      "tikaType": "video\\/x-ms-wm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wmv": {
+      "tikaType": "video\\/x-ms-wmv",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wmx": {
+      "tikaType": "video\\/x-ms-wmx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".wvx": {
+      "tikaType": "video\\/x-ms-wvx",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".avi": {
+      "tikaType": "video\\/x-msvideo",
+      "tikaComment": "Audio Video Interleave File"
+    }
+  },
+  {
+    ".movie": {
+      "tikaType": "video\\/x-sgi-movie",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mkv": {
+      "tikaType": "video\\/x-matroska",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".mka": {
+      "tikaType": "audio\\/x-matroska",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".webm": {
+      "tikaType": "video\\/webm",
+      "tikaComment": ""
+    }
+  },
+  {
+    ".ice": {
+      "tikaType": "x-conference\\/x-cooltalk",
+      "tikaComment": "Cooltalk Audio"
+    }
+  },
+  {
+    ".fb2": {
+      "tikaType": "application\\/x-fictionbook+xml",
+      "tikaComment": "FictionBook document"
+    }
+  },
+  {
+    ".asciidoc": {
+      "tikaType": "text\\/x-asciidoc",
+      "tikaComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".adoc": {
+      "tikaType": "text\\/x-asciidoc",
+      "tikaComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".ad": {
+      "tikaType": "text\\/x-asciidoc",
+      "tikaComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".ad.txt": {
+      "tikaType": "text\\/x-asciidoc",
+      "tikaComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".adoc.txt": {
+      "tikaType": "text\\/x-asciidoc",
+      "tikaComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".d": {
+      "tikaType": "text\\/x-d",
+      "tikaComment": "D source code"
+    }
+  },
+  {
+    ".haml": {
+      "tikaType": "text\\/x-haml",
+      "tikaComment": "HAML source code"
+    }
+  },
+  {
+    ".hx": {
+      "tikaType": "text\\/x-haxe",
+      "tikaComment": "Haxe source code"
+    }
+  },
+  {
+    ".r": {
+      "tikaType": "text\\/x-rsrc",
+      "tikaComment": "R source code"
+    }
+  }
+]
