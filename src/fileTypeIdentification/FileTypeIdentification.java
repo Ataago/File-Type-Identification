@@ -57,24 +57,21 @@ public class FileTypeIdentification {
 		
 		
 		// Reading filenames with Extensions from input file in data/*.csv to an arrayList
-		BufferedReader inputFileNames = new BufferedReader(new FileReader("data/input2.csv"));
-		List<String> inputList = new ArrayList<String>();
+		BufferedReader inputFileNames = new BufferedReader(new FileReader("data/input0.csv"));
+		List<String> inputList = new ArrayList<String>();	// list containing all the inputs
 		String fileNameNExtension;
 		while((fileNameNExtension = inputFileNames.readLine()) != null)
 			inputList.add(fileNameNExtension);
-//		System.out.println(inputList); 	// Debug line
 		inputFileNames.close();
 		
 		
-		// Reading Source 1 - SourcefileInfo.json and loading in HASH map
+		// Reading Source 1 - SourcefileInfo.json and loading in HASH map - fileInfoHM
 		JSONParser jsonParserS1 = new JSONParser();
 		try(FileReader reader = new FileReader("data/sourceFileInfo1.json"))	{
-			Object obj = jsonParserS1.parse(reader);
-			
+			Object obj = jsonParserS1.parse(reader);	
 			JSONArray fileTypeList = (JSONArray) obj;
-//            System.out.println(fileTypeList);	// Debug line
-             
-            //Iterate over fileTypesList 
+
+            // Iterate over fileTypesList - JSON Array to get the extensions and its details
             fileTypeList.forEach( fileExtension -> s1parseFileTypeObject( (JSONObject) fileExtension ) );
 		}
 		catch (FileNotFoundException e) {
@@ -85,13 +82,13 @@ public class FileTypeIdentification {
 		}
 
 		
-		// Reading Source 2 - SourceTika.json and loading in HASH map
+		// Reading Source 2 - SourceTika.json and loading in HASH map - tikaHM
 		JSONParser jsonParserS2 = new JSONParser();
 		try (FileReader s2Reader = new FileReader("data/sourceTika.json"))	{
 			Object obj = jsonParserS2.parse(s2Reader);
 			JSONArray fileTypeList = (JSONArray) obj;
-//			System.out.println(fileTypeList);
 			
+			// Iterate over fileTypesList - JSON Array to get the extensions and its details
 			fileTypeList.forEach( fileExtension -> s2parseFileTypeObject( (JSONObject) fileExtension));
 		}
 		catch (FileNotFoundException e) {
@@ -100,42 +97,21 @@ public class FileTypeIdentification {
 		catch (ParseException e) {
 			e.printStackTrace();
 		}
+
 		
-		
-//		// Accessing the tikaHM
-//		for (Map.Entry<String, TikaData> tikaEntry : tikaHM.entrySet()) {
-//			String key = tikaEntry.getKey();
-//			TikaData td = tikaEntry.getValue();
-//			System.out.println(	"Extension: " + key + 
-//					", TikaType: " + td.TikaType + 
-//					", TikaComment: " + td.TikaComment);
-//		}
-//		
-//		// Accessing the fileInfoHM
-//		for (Map.Entry<String, FileInfoData> fIEntry : fileInfoHM.entrySet()) {
-//			String key = fIEntry.getKey();
-//			FileInfoData fd = fIEntry.getValue();
-//			System.out.println("Extension: " + key + 
-//					", Category: " + fd.fICategory);
-//		}
-//		System.out.println(); // Debug line
-		
-		// File Identification from Various sources
+		// File Identification from Various sources for each item in inputList
 		for (String input : inputList) 
 		{
 			int indexOfDot = input.lastIndexOf(".");
-//			String fileName = input.substring(0, indexOfDot);
-			String fileExtension = input.substring(indexOfDot).toLowerCase();
+			String fileExtension = input.substring(indexOfDot).toLowerCase();	// Extracting file Extension from each input
 			
-			System.out.println("______________________________________________________________________________________________________________\n ");
-			System.out.println("File: " + input);
-			System.out.println("______________________________________________________________________________________________________________\n ");
+			// Initializing each category for a particular fileExtension 
 			String category = "N/A";
 			String type = "N/A";
 			String description = "N/A";
 			String programs = "N/A";
 			
-			if (fileInfoHM.containsKey(fileExtension))
+			if (fileInfoHM.containsKey(fileExtension))	// Searching in File Info Hash Map
 			{
 				FileInfoData fd = fileInfoHM.get(fileExtension);
 				category = fd.fICategory;
@@ -143,17 +119,21 @@ public class FileTypeIdentification {
 				description = fd.fIDescription;
 				programs = fd.fIPrograms;
 			}
-			else if (tikaHM.containsKey(fileExtension))
+			else if (tikaHM.containsKey(fileExtension))	// Searching in Tika Hash Map
 			{
 				TikaData td = tikaHM.get(fileExtension);
 				category = td.TikaComment;
 				type = td.TikaType;
 			} 
 			
-			System.out.println("\tCategory\t: " + category + 
+			// Outputting the Category list on Console output
+			System.out.println("______________________________________________________________________________________________________________\n " + 
+					"\nFile: " + input +
+					"\n______________________________________________________________________________________________________________\n " +
+					"\n\tCategory\t: " + category + 
 					"\n\tType\t\t: " + type + 
 					"\n\tDescription\t: " + description + 
-					"\n\tPrograms\t: " + programs + "\n");
+					"\n\tPrograms\t: " + programs + "\n\n");
 		}
 
 	}
