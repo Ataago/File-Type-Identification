@@ -26,7 +26,7 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
       - [x] Store all the input filenames in a list.
       - [x] Access various data sources (extracted previously in .json files) and load each data source in the main memory (hash maps) `fileInfoHM, tikaHM`.
       - [x] For each file Extension input, parse it in the hash maps to search for required data in a priority.
-      - [x] Print the information about each file input on the Console.
+      - [x] Write the information about each file input in `output.txt`
 
 ## Input
 
