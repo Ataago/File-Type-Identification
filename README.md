@@ -32,7 +32,7 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
 
 The input file is found in the 'data' directory of the `File-Type-Identification`. We have taken filenames with its extension in a `csv file` as shown below.
 
-**data/input.csv**
+> **/data/input.csv**
 ```
       binarySort.CPP
       linkList.cpp
@@ -44,3 +44,19 @@ The input file is found in the 'data' directory of the `File-Type-Identification
 ```
 
 ## Output
+
+The output for each filename given as an input can be found in the main programs `/src/fileTypeIdentification/FileTypeIdentification.java` console output. Given below is a sample output.
+
+```
+      ______________________________________________________________________________________________________________
+ 
+      File: binarySort.CPP
+      ______________________________________________________________________________________________________________
+ 
+	        Category	: Developer File
+	        Type		: C++ Source Code File
+	        Description	: A CPP file is a source code file written in C++, a popular programming language that adds features such as object-oriented programming to C.  It may be a standalone program, containing all the code or one of many files referenced in a development project.  CPP files must be compiled by a C++ compiler for the target platform before the code can be run.
+	        Programs	: [['File Viewer Plus', 'Microsoft Visual Studio 2017', 'Microsoft Visual Studio Code', 'Eclipse CDT', 'Code::Blocks', 'Embarcadero Technologies C++ Builder', 'ES-Computing EditPlus', 'BloodshedSoftware Dev-C++'], ['Apple Xcode', 'Code::Blocks', 'Eclipse CDT', 'GNU Compiler Collection (GCC)', 'MacroMates TextMate', 'Freescale CodeWarrior Development Tools'], ['Eclipse CDT', 'Code::Blocks', 'GNU Compiler Collection (GCC)'], ['File Viewer for Android']]
+```
+
+
