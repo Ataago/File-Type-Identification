@@ -84,10 +84,6 @@ public class TikaParser {
 							
 							// Adding each row to the json file.
 							fileDetailsList.add(fileObject);
-							
-							System.out.println(	"extension=" + extension + 
-									", tikaType=" + tikaType + 
-									", tikaComment=" + tikaComment);	// Debug line
 						}
 					}
 				}
