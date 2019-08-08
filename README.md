@@ -26,8 +26,8 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
     - [x] Create an input .csv file for passing all the inputs.
     - [x] Implement the main Program - fileTypeIdentification.java
       - [x] Store all the input filenames in a List
-      - [x] Access various data sources (extracted previously in .json files) and load the each data in the main memory (hash maps)
-      - [x] For each file Extension input, parse it in the hash map to search for required data
+      - [x] Access various data sources (extracted previously in .json files) and load each data source in the main memory (hash maps).
+      - [x] For each file Extension input, parse it in the hash maps to search for required data in a priority.
       - [x] Print the information about each file input on the Console.
 
 ## Input
