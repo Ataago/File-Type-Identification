@@ -1,11 +1,9 @@
 // Parser for XML to get a extension, tika-comment and tika-type from tika.xml
-// Stores all the values in Json format where key is extension and tika-comment and tika-type as values.
+// Stores all the values in Json format where key is extension and tika-comment and tika-type are its values.
 //
 // Reference https://github.com/apache/tika/blob/master/tika-core/src/main/resources/org/apache/tika/mime/tika-mimetypes.xml
 // 
 
-
-package tikaParser;
 
 import java.io.File;
 import java.io.FileWriter;
@@ -26,6 +24,7 @@ public class TikaParser {
 
 	public static void main(String[] args) {
 		try {
+			// Opening tika.xml file as Document
 			File inputFile = new File("tika.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -100,4 +99,3 @@ public class TikaParser {
 		}
 	}
 }
-

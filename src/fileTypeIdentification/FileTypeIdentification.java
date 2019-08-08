@@ -1,7 +1,7 @@
 // Start of the main Program 
 // File Type Identification
 //
-// Input: data/input0.csv
+// Input: input/input0.csv
 // Output: Text file 
 // 
 // Developers:
@@ -69,7 +69,7 @@ public class FileTypeIdentification {
 		
 		
 		// Reading filenames with Extensions from input file in data/*.csv to an arrayList
-		BufferedReader inputFileNames = new BufferedReader(new FileReader("data/" + inputFile));
+		BufferedReader inputFileNames = new BufferedReader(new FileReader("input/" + inputFile));
 		List<String> inputList = new ArrayList<String>();	// list containing all the inputs
 		String fileNameNExtension;
 		while((fileNameNExtension = inputFileNames.readLine()) != null)
