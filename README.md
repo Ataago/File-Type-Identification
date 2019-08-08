@@ -45,7 +45,9 @@ The input file is found in the 'data' directory of the `File-Type-Identification
 
 ## Output
 
-The output for each filename given as an input can be found in the main programs `/src/fileTypeIdentification/FileTypeIdentification.java` console output. Given below is a sample output.
+The output for the program is written on a text file `output.txt` in the main directory. Given below is a sample output.
+
+> **output.txt**
 
 ```
       ______________________________________________________________________________________________________________
@@ -59,4 +61,16 @@ The output for each filename given as an input can be found in the main programs
 	        Programs	: File Viewer Plus, Microsoft Visual Studio 2017, Microsoft Visual Studio Code, Eclipse CDT, Code::Blocks, Embarcadero Technologies C++ Builder, ES-Computing EditPlus, BloodshedSoftware Dev-C++, Apple Xcode, GNU Compiler Collection (GCC), MacroMates TextMate, Freescale CodeWarrior Development Tools, File Viewer for Android
 ```
 
+## Steps to Run the Program
 
+1. In `/data/` Create your input file in csv as given in the above input format or just use the pre built one.
+2. Execute the main program from `/src/fileTypeIdentification/FileTypeIdentification.java`
+3. Enter the input file name example: `input1.csv` in the console or else it will take the default `input0.csv`.
+4. You can check the output in `output.txt` file in the main directory.
+
+
+## Developers
+
+- Mohammed Ataaur Rahaman
+- Siddharth Singh
+- Shivani Bangalore
