@@ -56,7 +56,7 @@ The output for each filename given as an input can be found in the main programs
 	        Category	: Developer File
 	        Type		: C++ Source Code File
 	        Description	: A CPP file is a source code file written in C++, a popular programming language that adds features such as object-oriented programming to C.  It may be a standalone program, containing all the code or one of many files referenced in a development project.  CPP files must be compiled by a C++ compiler for the target platform before the code can be run.
-	        Programs	: [['File Viewer Plus', 'Microsoft Visual Studio 2017', 'Microsoft Visual Studio Code', 'Eclipse CDT', 'Code::Blocks', 'Embarcadero Technologies C++ Builder', 'ES-Computing EditPlus', 'BloodshedSoftware Dev-C++'], ['Apple Xcode', 'Code::Blocks', 'Eclipse CDT', 'GNU Compiler Collection (GCC)', 'MacroMates TextMate', 'Freescale CodeWarrior Development Tools'], ['Eclipse CDT', 'Code::Blocks', 'GNU Compiler Collection (GCC)'], ['File Viewer for Android']]
+	        Programs	: File Viewer Plus, Microsoft Visual Studio 2017, Microsoft Visual Studio Code, Eclipse CDT, Code::Blocks, Embarcadero Technologies C++ Builder, ES-Computing EditPlus, BloodshedSoftware Dev-C++, Apple Xcode, GNU Compiler Collection (GCC), MacroMates TextMate, Freescale CodeWarrior Development Tools, File Viewer for Android
 ```
 
 
