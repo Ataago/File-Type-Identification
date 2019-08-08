@@ -14,7 +14,7 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
 # Solution (Execution Flow)
 
 - [x] **Deliverable 1 - Identification and Analysis of Data Sources.**
-    - [x] Identify 8 Different Data sources.
+    - [x] Identify at least 5 different Data sources.
     - [x] Expand on the rationale for using the Data source.
     
 - [x] **Deliverable 2 - Implementation and Presentation of information about the given input file types.**
