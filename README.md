@@ -23,8 +23,8 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
     - [ ] Extract (web scraping) data from IANA source using python script and store in .json file.
     - [x] Create an input **input.csv** file for passing all the inputs.
     - [x] Implement the main Program - **fileTypeIdentification.java**
-      - [x] Store all the input filenames in a list **inputList**
-      - [x] Access various data sources (extracted previously in .json files) and load each data source in the main memory (hash maps) **fileInfoHM**, **tikaHM**.
+      - [x] Store all the input filenames in a list.
+      - [x] Access various data sources (extracted previously in .json files) and load each data source in the main memory (hash maps) `fileInfoHM, **tikaHM`.
       - [x] For each file Extension input, parse it in the hash maps to search for required data in a priority.
       - [x] Print the information about each file input on the Console.
 
