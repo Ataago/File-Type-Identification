@@ -11,22 +11,20 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
   -  Programming​ ​Paradigm​ ​(Procedural,​ ​OOP,​ ​Dynamic,​ ​etc) 
   -  Associated​ ​applications 
   
-## Solution (Approach)
-
-### Task To-Do
+# Solution (Approach)
 
 - [x] **Deliverable 1 - Identification and Analysis of Data Sources.**
-    - [x] Identified 8 Different Data sources.
-    - [x] Expanded on the rationale for using the Data source.
+    - [x] Identify 8 Different Data sources.
+    - [x] Expand on the rationale for using the Data source.
     
 - [x] **Deliverable 2 - Implementation and Presentation to Identify the given input file types.**
-    - [x] Extract (Web scraping) data from Fileinfo.com using python script and store in .json file.
-    - [x] Extract tika.xml using java parser and store in .json file.
+    - [x] Extract (Web scraping) data from Fileinfo.com using python script and store in **sourceFileInfo.json** file.
+    - [x] Extract tika.xml using java parser and store in **sourceTika.json** file.
     - [ ] Extract (web scraping) data from IANA source using python script and store in .json file.
-    - [x] Create an input .csv file for passing all the inputs.
-    - [x] Implement the main Program - fileTypeIdentification.java
-      - [x] Store all the input filenames in a List
-      - [x] Access various data sources (extracted previously in .json files) and load each data source in the main memory (hash maps).
+    - [x] Create an input **input.csv** file for passing all the inputs.
+    - [x] Implement the main Program - **fileTypeIdentification.java**
+      - [x] Store all the input filenames in a list **inputList**
+      - [x] Access various data sources (extracted previously in .json files) and load each data source in the main memory (hash maps) **fileInfoHM**, **tikaHM**.
       - [x] For each file Extension input, parse it in the hash maps to search for required data in a priority.
       - [x] Print the information about each file input on the Console.
 
