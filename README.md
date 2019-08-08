@@ -38,7 +38,7 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
 
 The input file is found in the 'data' directory of the `File-Type-Identification`. We have taken filenames with its extension in a `csv file` as shown below.
 
-> **/data/input.csv**
+> **/input/input.csv**
 ```
       binarySort.CPP
       linkList.cpp
@@ -69,7 +69,7 @@ The output for the program is written on a text file `output.txt` in the main di
 
 ## Steps to Run the Program
 
-1. In `/data/` Create your input file in csv as given in the above input format or just use the pre built one.
+1. In `/input/` Create your input file in csv as given in the above input format or just use the pre built one.
 2. Execute the main program: `/src/fileTypeIdentification/FileTypeIdentification.java`
 3. Enter the input file name example: `input1.csv` in the console or else it will take the default `input0.csv` on return.
 4. Check the output in `output.txt` file in the main directory.
