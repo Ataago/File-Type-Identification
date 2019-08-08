@@ -32,13 +32,13 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
 
 We have taken filenames with its extension in a csv file as shown below:
 **data/input.csv**
-`binarySort.CPP
-linkList.cpp
+> binarySort.CPP
+> linkList.cpp
 Readme.pdf
 fibonacci.XCODEPROJ
 about.txt
 scrape.py
-xmlParser.java`
+xmlParser.java
 The input file is found in the data directory of the `File-Type-Identification` 
 
 ## Output
