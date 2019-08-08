@@ -1,5 +1,5 @@
 # File Type Identification
-To identify file type using various sources by using files name and extensions.
+Worksample by BlueOptima to identify file type using various sources by using files name and file extensions.
 
 
 # Problem​ ​Statement: 
@@ -64,9 +64,9 @@ The output for the program is written on a text file `output.txt` in the main di
 ## Steps to Run the Program
 
 1. In `/data/` Create your input file in csv as given in the above input format or just use the pre built one.
-2. Execute the main program from `/src/fileTypeIdentification/FileTypeIdentification.java`
-3. Enter the input file name example: `input1.csv` in the console or else it will take the default `input0.csv`.
-4. You can check the output in `output.txt` file in the main directory.
+2. Execute the main program: `/src/fileTypeIdentification/FileTypeIdentification.java`
+3. Enter the input file name example: `input1.csv` in the console or else it will take the default `input0.csv` on return.
+4. Check the output in `output.txt` file in the main directory.
 
 
 ## Developers
