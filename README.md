@@ -30,9 +30,9 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
 
 ## Input
 
-The input file is found in the data directory of the `File-Type-Identification`. We have taken filenames with its extension in a csv file as shown below:
+The input file is found in the 'data' directory of the `File-Type-Identification`. We have taken filenames with its extension in a `csv file` as shown below.
 
-> **data/input.csv**
+**data/input.csv**
 ```
       binarySort.CPP
       linkList.cpp
