@@ -14,10 +14,10 @@ With​ ​the​ ​enormous​ ​number​ ​of​ ​languages​ ​and​
 ## Solution (Approach)
 
 #### Task To-Do
-- [x] Deliverable 1 - Identification and Analysis of Data Sources.
+- [x] **Deliverable 1 - Identification and Analysis of Data Sources.**
     - [x] Identified 8 Different Data sources
     - [x] Expanded on the rationale for using the Data source.
-- [x] Deliverable 2 - Implementation and Presentation to Identify the given input file types
+- [x] **Deliverable 2 - Implementation and Presentation to Identify the given input file types.**
     - [x] Extracted (Web scraping) Fileinfo.com for file information
 
 ## Input
