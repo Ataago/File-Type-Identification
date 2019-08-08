@@ -2,7 +2,7 @@
 // File Type Identification
 //
 // Input: data/input0.csv
-// Output: Console O/P
+// Output: Text file 
 // 
 // Developers:
 //	Mohammed Ataaur Rahaman
@@ -96,7 +96,7 @@ public class FileTypeIdentification {
 		
 		// Reading Source 2 - SourceTika.json and loading in HASH map - tikaHM
 		JSONParser jsonParserS2 = new JSONParser();
-		try (FileReader s2Reader = new FileReader("data/sourceTika.json"))	{
+		try (FileReader s2Reader = new FileReader("data/sourceTika1.json"))	{
 			Object obj = jsonParserS2.parse(s2Reader);
 			JSONArray fileTypeList = (JSONArray) obj;
 			
