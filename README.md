@@ -1,5 +1,5 @@
 # File Type Identification
-Worksample by BlueOptima to identify file type using various sources by using files name and file extensions.
+Identify file type using various sources by using files name and file extensions.
 
 
 # Problem​ ​Statement: 
